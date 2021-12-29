@@ -4,11 +4,11 @@ Unit 1 Homework Assignment for FinTech Bootcamp.
 ## Table of Contents
 
 - [Overview and Origin](#overview-and-origin)
-  * [Name of company](#name-of-company)
-  * [When was the company incorporated](#when-was-the-company-incorporated)
-  * [Who are the founders of the company](#who-are-the-founders-of-the-company)
-  * [How did he idea for the company come about?](#how-did-the-idea-for-the-company-come-about?)
-  * [How is the company funded? How much funding have they received?](#how-is-the-company-funded?-how-much-funding-have-they-received?)
+  * [Name of company](#overview-and-origin)
+  * [When was the company incorporated](#overview-and-origin)
+  * [Who are the founders of the company](#overview-and-origin)
+  * [How did he idea for the company come about?](#overview-and-origin)
+  * [How is the company funded? How much funding have they received?](#overview-and-origin)
 - [Business Activities](#business-activities)
   * [Who is the company's intended customer? Is there any information about the market size of this set of customers?]
   * [What solution does this company offer that their competitors do not or cannot offer?]
