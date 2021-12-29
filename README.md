@@ -1,4 +1,6 @@
-# Case-Study
+![FinTech Case Study - Moula Money](https://github.com/charbelnehme/case-study/images/FinTech Logo for Case Study.png?raw=true)
+
+## Case-Study
 Unit 1 Homework Assignment for FinTech Bootcamp.
 
 ## Table of Contents
