@@ -1,7 +1,12 @@
 # Case-Study
 Unit 1 Homework Assignment for FinTech Bootcamp.
 
-# FinTech Case Study - Moula Money 
+## Table of Contents
+
+- [Overview and Origin](#-overview-and-origin)
+- [Business Activities](#-business-activities)
+- [Results](#-results)
+- [Recommendations](#-recommendations) 
 
 ## Overview and Origin 
 
