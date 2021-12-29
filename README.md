@@ -1,4 +1,3 @@
-![FinTech Case Study - Moula Money](https://github.com/charbelnehme/Case-Study/blob/a56cbe4b79eb27d04c2d2b7dba211f87039e2807/images/Moula-logo.png)
 <p align="center">
   <img src="https://github.com/charbelnehme/Case-Study/blob/a56cbe4b79eb27d04c2d2b7dba211f87039e2807/images/Moula-logo.png" alt="FinTech Case Study - Moula Money"/>
 </p>
