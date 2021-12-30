@@ -50,7 +50,7 @@ Andrew has a Bachelor of Commerce from the University of Melbourne and is a Char
 
 Piers is a co-founder and CTO of Moula. He has been working in information technology since 1997 with financial institutions including Royal Bank of Scotland, BNP Paribas , Barclays Capital . In these roles he was responsible for building proprietary systems that simplified various processes across programming languages.
 
-Piers is credited for the development of Moula’s proprietary platform that simplifies the business lending process. He has a Bachelor of Science in Astronomy from University College London and a Masters in Science in Electronic Product Innovation and Management from Middlesex University London.
+Piers is credited for the development of Moula’s proprietary platform that simplifies the business lending process. He has a Bachelor of Science in Astronomy from University College London and a Masters in Science from Middlesex University London.
 
 ### Aris Allegos ###
 
