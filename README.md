@@ -207,4 +207,4 @@ Prospa provides unsecured business loans to small businesses in Australia and is
 Prospa - $96.7M funding and an additional $109.6M raised at IPO. Company valued at $609.9M (11 June 2019).
 Prospa has raised a total of $96.7M in funding over 5 rounds. Their latest funding was raised on Jan 1, 2018 from a Undisclosed round.Prospa is registered under the ticker ASX:PGL. Their stock opened with A$3.78 in its Jun 11, 2019 IPO.Prospa is funded by 7 investors. Poalim Equity and Partners for Growth are the most recent investors.
 
-
+[![SmartBox](https://github.com/charbelnehme/case-study/resources/Moula-SmartBox.mp4) 
