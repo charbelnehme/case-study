@@ -94,6 +94,8 @@ Who is the company's intended customer? Is there any information about the marke
 
 What solution does this company offer that their competitors do not or cannot offer? 
 
+SMART Box™ is the new way to compare business loans. It stands for: Straightforward Metrics Around Rate and Total cost and shows key metrics so you can compare the cost of capital. Because when it comes to business loans, it pays to compare.
+
 Which technologies are they currently using, and how are they implementing them? **
   
 Instead of lengthy loan applications and even longer waits for approval, Moula is using artificial intelligence to accelerate the speed at which small businesses can get a loan. It’s turned what was often a fortnight’s delay into a 48-hour turnaround, delivering fast funds based on a much clearer understanding of an organisation’s creditworthiness.
@@ -202,4 +204,12 @@ What are the other major companies in this domain? **
 **What technologies would this product or service utilise? **
 
 **Why are these technologies appropriate for your solution? **
+
+Competitor analysis
+
+Prospa provides unsecured business loans to small businesses in Australia and is Australian owned and operated. Using a smart proprietary technology platform and a simple online application process, Prospa gives small business owners a fast and easy way to access finance, and has already helped thousands of Australian small businesses. In 2015 Prospa won the Deloitte Tech Fast 50 with 6071% growth over three years, making it the fastest growing technology company in Australia, and the third fastest in Asia. Prospa was a 2015 Telstra Business Awards finalist and rated 33rd globally as a leading innovator in KPMG's Fintech 100.
+
+Prospa - $96.7M funding and an additional $109.6M raised at IPO. Company valued at $609.9M (11 June 2019).
+Prospa has raised a total of $96.7M in funding over 5 rounds. Their latest funding was raised on Jan 1, 2018 from a Undisclosed round.Prospa is registered under the ticker ASX:PGL. Their stock opened with A$3.78 in its Jun 11, 2019 IPO.Prospa is funded by 7 investors. Poalim Equity and Partners for Growth are the most recent investors.
+
 
