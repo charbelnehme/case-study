@@ -40,28 +40,25 @@ Moula is a FinTEch that makes loans to small and medium-sized enterprises. The p
 
 **Andrew Watt**
 
-<img align="left" src="images/Andrew-Watt.png"> Andrew spent over 16 years with a number of financial institutions in London – including Deutsche Bank, Standard Chartered, Nomura and Royal Bank of Scotland – spanning risk management, credit modelling and structuring.
-
-As COO, he is responsible for managing the lending process from the point of underwriting to execution and settlement, and post-settlement support.
+<img align="left" src="images/Andrew-Watt.png"> Andrew spent over 16 years with a number of financial institutions in London – including Deutsche Bank, Standard Chartered, Nomura and Royal Bank of Scotland – spanning risk management, credit modelling and structuring. As COO, he is responsible for managing the lending process from the point of underwriting to execution and settlement, and post-settlement support.
 
 Andrew has a Bachelor of Commerce from the University of Melbourne and is a Chartered Accountant of Australia.
 
-
 **Piers Moller**
 
-Piers is a co-founder and CTO of Moula. He has been working in information technology since 1997 with financial institutions including Royal Bank of Scotland, BNP Paribas , Barclays Capital . In these roles he was responsible for building proprietary systems that simplified various processes across programming languages.
+<img align="left" src="images/Piers-Moller.png"> Piers is a co-founder and CTO of Moula. He has been working in information technology since 1997 with financial institutions including Royal Bank of Scotland, BNP Paribas , Barclays Capital . In these roles he was responsible for building proprietary systems that simplified various processes across programming languages.
 
-Piers is credited for the development of Moula’s proprietary platform that simplifies the business lending process.
-
-He has a Bachelor of Science in Astronomy from University College London and a Masters in Science in Electronic Product Innovation and Management from Middlesex University London.
+Piers is credited for the development of Moula’s proprietary platform that simplifies the business lending process. He has a Bachelor of Science in Astronomy from University College London and a Masters in Science in Electronic Product Innovation and Management from Middlesex University London.
 
 **Aris Allegos**
+
+<img align="left" src="images/Aris-Allegos.png">
 
 Aris is a co-fouder with over 15 years’ experience working in banking in London and Hong Kong, including roles with Credit Suisse and Nomura.
 
 He holds an MBA from London Business School, and a Bachelor of Commerce and Bachelor of Law from Monash University.
 
-**How is the company funded? How much funding have they received? **
+## How is the company funded? How much funding have they received? ##
 
 According to Crunchbase, Moula has raised a total of $50.9M in funding over 3 rounds from a total of 5 investors. 
 Acorn Capital 
