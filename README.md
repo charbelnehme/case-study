@@ -16,6 +16,8 @@ Unit 1 Homework Assignment for FinTech Bootcamp.
   - [Piers Moller](#piers-moller)
   - [Aris Allegos](#aris-allegos)
 - [How is the company funded? How much funding have they received?](#how-is-the-company-funded-how-much-funding-have-they-received)
+  - [Crunchbase](#crunchbase)
+  - [Invest Victoria](#invest-victoria)
 - [Business Activities](#business-activities)
   - [What have been the major trends and innovations of this domain over the last 5-10 years?](#what-have-been-the-major-trends-and-innovations-of-this-domain-over-the-last-5-10-years)
   - [What are the other major companies in this domain?](#what-are-the-other-major-companies-in-this-domain)
@@ -62,7 +64,12 @@ Aris is a co-fouder with over 15 years’ experience working in banking in Londo
 
 He holds an MBA from London Business School, and a Bachelor of Commerce and Bachelor of Law from Monash University.
 
+He holds an MBA from London Business School, and a Bachelor of Commerce and Bachelor of Law from Monash University.
+
+
 ## How is the company funded? How much funding have they received? ##
+
+### Crunchbase ###
 
 According to Crunchbase, Moula has raised a total of $50.9M in funding over 3 rounds from the following investors - 
 * Acorn Capital 
@@ -78,6 +85,8 @@ Date | Funding Round | Money Raised
 9 December 2019  | Series D | $20M
 9 June 2015  | Series A | $30M
 1 November 2014 | Seed Round | $1M
+
+### Invest Victoria ###
 
 Invest Victoria (https://www.invest.vic.gov.au/opportunities/fintech) reports the company has raised $160 million Series D in 2020.
 
