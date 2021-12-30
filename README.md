@@ -96,6 +96,8 @@ What solution does this company offer that their competitors do not or cannot of
 
 **SMART Box™** is the new way to compare business loans. It stands for: Straightforward Metrics Around Rate and Total cost and shows key metrics so you can compare the cost of capital. Because when it comes to business loans, it pays to compare.
 
+https://user-images.githubusercontent.com/95597283/147745323-1ac3c156-4987-463d-a8f9-514c32aaf64d.mp4
+
 Which technologies are they currently using, and how are they implementing them? **
 
 Moula uses data, AI and machine learning to assess business loan applications made online. Successful applications can result in business loans of up to $500,000 being made available in 24-48 hours. 
