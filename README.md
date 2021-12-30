@@ -137,7 +137,6 @@ Pesavento for example expects that the arrival of open banking in Australia will
 
 > “Whilst customers already have the ability to share their banking data with us, the move to open banking should make this practice more common place and trusted, and help customers feel more in control of their data and able to use that data to more easily and more quickly access services from non-bank providers including Moula. “More of our potential customers will feel more confident and in control of their banking data, and being more aware of it as a way of doing business. It just increases the appetite for the sort of services we provide and for customers to look outside of their existing banking relationships.”
 
-[![Moula Money - Using AI to Transform Business Decisions](https://img.youtube.com/vi/43-mCw-styM/maxresdefault.jpg)](https://youtu.be/43-mCw-styM)
 
 **What domain of the financial industry is the company in? 
 
