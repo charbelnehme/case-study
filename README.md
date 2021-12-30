@@ -40,7 +40,7 @@ Moula is a FinTEch that makes loans to small and medium-sized enterprises. The p
 
 **Andrew Watt**
 
-Andrew spent over 16 years with a number of financial institutions in London – including Deutsche Bank, Standard Chartered, Nomura and Royal Bank of Scotland – spanning risk management, credit modelling and structuring.
+<img align="left" src="images/Andrew-Watt.png"> Andrew spent over 16 years with a number of financial institutions in London – including Deutsche Bank, Standard Chartered, Nomura and Royal Bank of Scotland – spanning risk management, credit modelling and structuring.
 
 As COO, he is responsible for managing the lending process from the point of underwriting to execution and settlement, and post-settlement support.
 
