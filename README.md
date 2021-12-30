@@ -7,34 +7,36 @@ Unit 1 Homework Assignment for FinTech Bootcamp.
 
 ## Table of Contents
 
+- [Case-Study](#case-study)
+- [Table of Contents](#table-of-contents)
 - [Overview and Origin](#overview-and-origin)
-  * [Name of company](#overview-and-origin)
-  * [When was the company incorporated](#overview-and-origin)
-  * [Who are the founders of the company](#overview-and-origin)
-  * [How did he idea for the company come about?](#overview-and-origin)
-  * [How is the company funded? How much funding have they received?](#overview-and-origin)
+  - [Introduction](#introduction)
+- [Who are the founders of the company](#who-are-the-founders-of-the-company)
+  - [Andrew Watt](#andrew-watt)
+  - [Piers Moller](#piers-moller)
+  - [Aris Allegos](#aris-allegos)
+- [How is the company funded? How much funding have they received?](#how-is-the-company-funded-how-much-funding-have-they-received)
 - [Business Activities](#business-activities)
-  * [Who is the company's intended customer? Is there any information about the market size of this set of customers?](#business-activities) 
-  * [What solution does this company offer that their competitors do not or cannot offer?](#business-activities) 
-  * [Which technologies are they currently using, and how are they implementing them?](#business-activities)
-  * [What domain of the financial industry is the company in?](#business-activities)
-  * [What have been the major trends and innovations of this domain over the lsat 5-10 years?](#business-activities)
-  * [What are the other major companies in this domain?](#business-activities)
-- [Results](#results)  * [What has been the business impact of this company so far?](#results)
-  * [What are some of the core metrics that companies in this domain use to measure success?](#results)
-  * [How is the company performing relative to competitors in the same domain?](#results)
+  - [What have been the major trends and innovations of this domain over the last 5-10 years?](#what-have-been-the-major-trends-and-innovations-of-this-domain-over-the-last-5-10-years)
+  - [What are the other major companies in this domain?](#what-are-the-other-major-companies-in-this-domain)
+- [Results](#results)
+  - [What has been the business impact of this company so far?](#what-has-been-the-business-impact-of-this-company-so-far)
+  - [What are some of the core metrics that companies in this domain use to measure success?](#what-are-some-of-the-core-metrics-that-companies-in-this-domain-use-to-measure-success)
 - [Recommendations](#recommendations)
-  * [If you were to advise the company, what products or services would you suggest they offer?](#recommendations)
-  * [Why do you think that offering this product or service will benefit the company?](#recommendations)
-  * [What technologies would this product or service utilise?](#recommendations)
-  * [Why are these technologies appropriate for your solution?](#recommendations)
 
 
 ## Overview and Origin 
 
-##Introduction##
+### Introduction ###
   
-Moula is a FinTEch that makes loans to small and medium-sized enterprises. The proprietary lending platform uses data driven decision making based on banking information, accounting records as well as head & heart evaluation methods for applicants looking at growing their businesses via this service provided by MOULA!
+Established in 2013, Moula is an Australian FinTech that provides working capital to small and medium business to help grow their business. By integrating accounting data with machine learning and artificial intelligence, Moula can process loan applications and make responsible lending decisions within minutes, and businessness can access the working capital they need almost immediately.
+
+Eligible businessness with at least 6 months trading history and $60,000 in annual turnover can borrow between $5,000.00 and $500,000.00 for 3 month to 2 year terms, with interest rates as low as 0.61 percent per fortnight. The companies main loan features include - 
+
+* Unsecured loans between $5k and $500k
+* 10 minute online application
+* Interest rates from 0.61 percent per fortnight
+* Customers receive funds in as little as 24 hours from approval
 
 ## Who are the founders of the company ##
 
@@ -48,7 +50,7 @@ Andrew has a Bachelor of Commerce from the University of Melbourne and is a Char
 
 <img align="left" src="images/Piers-Moller.png"> 
 
-Piers is a co-founder and CTO of Moula. He has been working in information technology since 1997 with financial institutions including Royal Bank of Scotland, BNP Paribas , Barclays Capital . In these roles he was responsible for building proprietary systems that simplified various processes across programming languages.
+Piers is a co-founder and CTO of Moula. He has been working in information technology since 1997 with financial institutions including Royal Bank of Scotland, BNP Paribas , Barclays Capital. 
 
 Piers is credited for the development of Moula’s proprietary platform that simplifies the business lending process. He has a Bachelor of Science in Astronomy from University College London and a Masters in Science from Middlesex University London.
 
@@ -62,12 +64,12 @@ He holds an MBA from London Business School, and a Bachelor of Commerce and Bach
 
 ## How is the company funded? How much funding have they received? ##
 
-According to Crunchbase, Moula has raised a total of $50.9M in funding over 3 rounds from a total of 5 investors. 
-Acorn Capital 
-Liberity Financial 
-Escala Partners 
-NCN Investments 
-Liberty Financial Companies, Inc
+According to Crunchbase, Moula has raised a total of $50.9M in funding over 3 rounds from the following investors - 
+* Acorn Capital 
+* Liberity Financial 
+* Escala Partners 
+* NCN Investments 
+* Liberty Financial Companies, Inc
 
 Their latest funding was raised on December 9, 2019 from a Series D round. Acorn Capital and Liberty Financial are the most recent investors. 
 
@@ -94,34 +96,39 @@ Which technologies are they currently using, and how are they implementing them?
 Moula uses data, AI and machine learning to assess business loan applications made online. Successful applications can result in business loans of up to $500,000 being made available in 24-48 hours. 
 Justin Green is the Chief Product and Strategy Officer for Moula explains why traditional banks don’t work for many Australian businesses –
 
-“If you don’t have the benefit of assets, like the family home to put up as collateral, then your ability to borrow money from the bank is pretty limited. So Moula’s thesis was very much ‘can we partner with small businesses?’, try and demystify this volatility that exists in small businesses, encourage this open-sharing of business data, as the critical asset to understand the nature of someone’s business.” – Justin Green
+> “If you don’t have the benefit of assets, like the family home to put up as collateral, then your ability to borrow money from the bank is pretty limited. So Moula’s thesis was very much ‘can we partner with small businesses?’, try and demystify this volatility that exists in small businesses, encourage this open-sharing of business data, as the critical asset to understand the nature of someone’s business.” – Justin Green
 
 Green says the actual process of applying for a Moula business loan takes 7-10 minutes. It involves completing a fairly light touch application form, and granting approval for Moula to access the applicant’s business data. That’s generally achieved through an API into a data source, such as Xero.
 
-According to Paul Pesavento, Moula’s Chief Data Officer; “Taking into consideration the licensing and service expenses, Azure is more cost-effective. As we are using PaaS, we are no longer concerned with updating the VMs and patching the frameworks. Azure provides better and more fine-grained security. It has helped us to use advanced threat detection and security features in Azure SQL databases we are using. Last but not least, we can scale up to any kind of workload we have to deal with.”
+According to Paul Pesavento, Moula’s Chief Data Officer; 
+
+> “Taking into consideration the licensing and service expenses, Azure is more cost-effective. As we are using PaaS, we are no longer concerned with updating the VMs and patching the frameworks. Azure provides better and more fine-grained security. It has helped us to use advanced threat detection and security features in Azure SQL databases we are using. Last but not least, we can scale up to any kind of workload we have to deal with.”
 
 Moula worked with Microsoft partner, BizData to plan and execute the transition. Together they established an Azure based data warehouse using Azure SQL DB, implemented Power BI to run business analytics, and leverage Azure AI and machine learning capabilities to assess data and analyse risk.
 Rachel Bondi, general manager, One Commercial Partner, Microsoft Australia, applauds the partnership between BizData and Moula, for the vision it brought to the market.
 
-“Small business is the engine room of Australia’s economy. It’s where most people work, and without small business big business simply could not function. The vision of Moula in terms of liberating the value in small business data is impressive, and the partnership with BizData using Microsoft AI technology to bring that vision to life is a prime example of collaboration across our ecosystem to bring about not just business transformation, but sector transformation.”
+> “Small business is the engine room of Australia’s economy. It’s where most people work, and without small business big business simply could not function. The vision of Moula in terms of liberating the value in small business data is impressive, and the partnership with BizData using Microsoft AI technology to bring that vision to life is a prime example of collaboration across our ecosystem to bring about not just business transformation, but sector transformation.”
 AI and machine learning key to success
 
 A machine learning decision model developed using Scikit-Learn machine learning algorithms that are accessed through Azure Machine Learning Services, then provide a prediction of the probability (or risk) of the SME being able to pay back its loan.
 
 Moula has been able to refine that prediction by using historical data from past applicants to train the model. “The machine learning models also provide useful context in the form of the relative importance of each of the pieces of information that it has based its decision on,” says Pesavento.
-“We use Azure Machine Learning Services to calibrate the risk engine models, which includes retraining them on updated historical data and assessing the performance of alternate models and associated hyperparameters.”
+
+> “We use Azure Machine Learning Services to calibrate the risk engine models, which includes retraining them on updated historical data and assessing the performance of alternate models and associated hyperparameters.”
 
 With a DevOps approach to innovation Pesavento explains; “We are using App Services for .net, app service containers for Linux, Functions, Azure SQL database, ServiceBus, CosmosDB, Azure Documents, Data Factory, Key Vault, VMs.”
 
 The technology foundations now in place at Moula are also supporting its ongoing innovation efforts. Green points to the initiative with Xero which offers a buy-now pay-later facility for small businesses.
-“Essentially this uses some payment service integration for Xero accounting customers as merchants. So they can issue invoices and get paid upfront, while their end-customer is able to repay over 12 months with Moula Pay, and benefits from the three months, no interest, no repayments opportunity.”
+
+> “Essentially this uses some payment service integration for Xero accounting customers as merchants. So they can issue invoices and get paid upfront, while their end-customer is able to repay over 12 months with Moula Pay, and benefits from the three months, no interest, no repayments opportunity.”
+
 Well aware of the value of that data Moula deploys multiple layers of defence in order to ensure data is protected. As part of its security controls, Moula takes advantage of Azure security features such as Advanced Data Security and Dynamic Data Masking.
 
 It also has documents and files stored in private storage accounts accessible via its own application and uses KeyVault to ensure there are no naked connection strings or access keys in any deployed applications. It also employs IP whitelisting and subnets to restrict access to some applications and VMs. Operating in a currently self-regulated part of the financial services market Moula nevertheless expects to be impacted by changing regulations affecting other institutions.
 
 Pesavento for example expects that the arrival of open banking in Australia will accelerate the interest in alternative financial solutions as people and business grow used to greater choice and flexibility.
 
-“Whilst customers already have the ability to share their banking data with us, the move to open banking should make this practice more common place and trusted, and help customers feel more in control of their data and able to use that data to more easily and more quickly access services from non-bank providers including Moula. “More of our potential customers will feel more confident and in control of their banking data, and being more aware of it as a way of doing business. It just increases the appetite for the sort of services we provide and for customers to look outside of their existing banking relationships.”
+> “Whilst customers already have the ability to share their banking data with us, the move to open banking should make this practice more common place and trusted, and help customers feel more in control of their data and able to use that data to more easily and more quickly access services from non-bank providers including Moula. “More of our potential customers will feel more confident and in control of their banking data, and being more aware of it as a way of doing business. It just increases the appetite for the sort of services we provide and for customers to look outside of their existing banking relationships.”
 
 [![Moula Money - Using AI to Transform Business Decisions](https://img.youtube.com/vi/43-mCw-styM/maxresdefault.jpg)](https://youtu.be/43-mCw-styM)
 
@@ -150,11 +157,11 @@ The base year for analysis is 2015 and the forecast period is 2016 to 2020. Reve
 
 Melbourne is home to more than 330 fintech start-ups, and by the end of 2020, there were five homegrown fintech unicorns headquartered in Melbourne, collectively valued at over US$30 billion.
 
-Airwallex (cross border payments - founded 2015, est. valuation US$1.2 billion)
-Afterpay (buy now pay later - founded 2014, market cap. US$31.8 billion)
-Judo Capital (challenger bank - founded 2016, est. valuation US$0.925 billion)
-MYOB (business online accounting software est. valuation US$1.3 billion)
-PEXA (digital property settlement - founded 2015 est. valuation US$1 billion)
+> Airwallex (cross border payments - founded 2015, est. valuation US$1.2 billion)
+> Afterpay (buy now pay later - founded 2014, market cap. US$31.8 billion)
+> Judo Capital (challenger bank - founded 2016, est. valuation US$0.925 billion)
+> MYOB (business online accounting software est. valuation US$1.3 billion)
+> PEXA (digital property settlement - founded 2015 est. valuation US$1 billion)
 
 Airwallex was awarded Fintech Organisation of the Year award and AfterPay received the Global Market Presence award at the 2020 Finnie Awards, the national fintech awards run by Fintech Australia that is sponsored by the Victorian Government.
 
