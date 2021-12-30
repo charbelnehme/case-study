@@ -84,7 +84,7 @@ Date | Funding Round | Money Raised
 
 ### Invest Victoria ###
 
-Invest Victoria (https://www.invest.vic.gov.au/opportunities/fintech) reports the company has raised $160 million Series D in 2020.
+<img align="right" src="images/InvestVictoria.gif"> Invest Victoria (https://www.invest.vic.gov.au/opportunities/fintech) reports the company has raised $160 million Series D in 2020.
 
 ## Business Activities ##
 
