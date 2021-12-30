@@ -33,12 +33,8 @@ Unit 1 Homework Assignment for FinTech Bootcamp.
   
 Established in 2013, Moula is an Australian FinTech that provides working capital to small and medium business to help grow their business. By integrating accounting data with machine learning and artificial intelligence, Moula can process loan applications and make responsible lending decisions within minutes, and businessness can access the working capital they need almost immediately.
 
-Eligible businessness with at least 6 months trading history and $60,000 in annual turnover can borrow between $5,000.00 and $500,000.00 for 3 month to 2 year terms, with interest rates as low as 0.61 percent per fortnight. The companies main loan features include - 
+Awards?
 
-* Unsecured loans between $5k and $500k
-* 10 minute online application
-* Interest rates from 0.61 percent per fortnight
-* Customers receive funds in as little as 24 hours from approval
 
 ## Who are the founders of the company ##
 
