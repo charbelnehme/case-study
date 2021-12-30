@@ -20,8 +20,7 @@ Unit 1 Homework Assignment for FinTech Bootcamp.
   * [What domain of the financial industry is the company in?](#business-activities)
   * [What have been the major trends and innovations of this domain over the lsat 5-10 years?](#business-activities)
   * [What are the other major companies in this domain?](#business-activities)
-- [Results](#results)
-  * [What has been the business impact of this company so far?](#results)
+- [Results](#results)  * [What has been the business impact of this company so far?](#results)
   * [What are some of the core metrics that companies in this domain use to measure success?](#results)
   * [How is the company performing relative to competitors in the same domain?](#results)
 - [Recommendations](#recommendations)
@@ -62,10 +61,6 @@ He has a Bachelor of Science in Astronomy from University College London and a M
 Aris co-founded Moula to provide Australian SMEs with a better way to access finance. Growing up around a family business, he experienced first-hand the challenges faced by SMEs. Before Moula, Aris spent over 15 years working in banking in London and Hong Kong, including roles with Credit Suisse and Nomura.
 
 He holds an MBA from London Business School, and a Bachelor of Commerce and Bachelor of Law from Monash University.
-
-**How did the idea for the company come about? **
-
-Text? 
 
 **How is the company funded? How much funding have they received? **
 
