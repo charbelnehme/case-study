@@ -32,25 +32,27 @@ Unit 1 Homework Assignment for FinTech Bootcamp.
 
 ## Overview and Origin 
 
-**Introduction**
+##Introduction##
   
 Moula is a FinTEch that makes loans to small and medium-sized enterprises. The proprietary lending platform uses data driven decision making based on banking information, accounting records as well as head & heart evaluation methods for applicants looking at growing their businesses via this service provided by MOULA!
 
-**Who are the founders of the company**
+## Who are the founders of the company ##
 
-**Andrew Watt**
+### Andrew Watt ###
 
 <img align="left" src="images/Andrew-Watt.png"> Andrew spent over 16 years with a number of financial institutions in London – including Deutsche Bank, Standard Chartered, Nomura and Royal Bank of Scotland – spanning risk management, credit modelling and structuring. As COO, he is responsible for managing the lending process from the point of underwriting to execution and settlement, and post-settlement support.
 
 Andrew has a Bachelor of Commerce from the University of Melbourne and is a Chartered Accountant of Australia.
 
-**Piers Moller**
+### Piers Moller ###
 
-<img align="left" src="images/Piers-Moller.png"> Piers is a co-founder and CTO of Moula. He has been working in information technology since 1997 with financial institutions including Royal Bank of Scotland, BNP Paribas , Barclays Capital . In these roles he was responsible for building proprietary systems that simplified various processes across programming languages.
+<img align="left" src="images/Piers-Moller.png"> 
+
+Piers is a co-founder and CTO of Moula. He has been working in information technology since 1997 with financial institutions including Royal Bank of Scotland, BNP Paribas , Barclays Capital . In these roles he was responsible for building proprietary systems that simplified various processes across programming languages.
 
 Piers is credited for the development of Moula’s proprietary platform that simplifies the business lending process. He has a Bachelor of Science in Astronomy from University College London and a Masters in Science in Electronic Product Innovation and Management from Middlesex University London.
 
-**Aris Allegos**
+### Aris Allegos ###
 
 <img align="left" src="images/Aris-Allegos.png">
 
@@ -77,7 +79,7 @@ Date | Funding Round | Money Raised
 
 Invest Victoria (https://www.invest.vic.gov.au/opportunities/fintech) reports the company has raised $160 million Series D in 2020.
 
-## Business Activities 
+## Business Activities ##
 
 **What specific financial activities is the company or project trying to solve? 
 
@@ -125,7 +127,7 @@ Pesavento for example expects that the arrival of open banking in Australia will
 
 **What domain of the financial industry is the company in? 
 
-**What have been the major trends and innovations of this domain over the last 5-10 years? **
+### What have been the major trends and innovations of this domain over the last 5-10 years? ###
 
 In 2019, the A$3.8 billion Australian fintech sector1 saw 252 per cent growth in fintech investment.  Frost and Sullivan estimated growth between 2015-20 to be 76.3 per cent per annum and with more than 40 per cent of consumers yet to become fintech adopters the market is predicted to grow further to $18 billion by 20301.
 
@@ -144,7 +146,7 @@ Market revenue in this report only includes revenues of those companies that dis
 The base year for analysis is 2015 and the forecast period is 2016 to 2020. Revenue is provided given in US dollars when pertaining to the global FinTech sector and in Australian Dollars when pertaining to the Australian FinTech sector.
 
 **
-What are the other major companies in this domain? **
+### What are the other major companies in this domain? ###
 
 Melbourne is home to more than 330 fintech start-ups, and by the end of 2020, there were five homegrown fintech unicorns headquartered in Melbourne, collectively valued at over US$30 billion.
 
@@ -163,15 +165,15 @@ Prospa provides unsecured business loans to small businesses in Australia and is
 Prospa - $96.7M funding and an additional $109.6M raised at IPO. Company valued at $609.9M (11 June 2019).
 Prospa has raised a total of $96.7M in funding over 5 rounds. Their latest funding was raised on Jan 1, 2018 from a Undisclosed round.Prospa is registered under the ticker ASX:PGL. Their stock opened with A$3.78 in its Jun 11, 2019 IPO.Prospa is funded by 7 investors. Poalim Equity and Partners for Growth are the most recent investors.
 
-## Results
+## Results ##
 
-**What has been the business impact of this company so far? **
+### What has been the business impact of this company so far? ###
 
-**What are some of the core metrics that companies in this domain use to measure success? **
+### What are some of the core metrics that companies in this domain use to measure success? ###
 
 **How is the company performing relative to competitors in the same domain? **
 
-## Recommendations
+## Recommendations ##
 
 **If you were to advise the company, what products or services would you suggest they offer? **
 
