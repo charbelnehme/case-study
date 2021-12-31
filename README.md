@@ -50,16 +50,9 @@ Established in 2013, Moula is an Australian FinTech that provides working capita
 
 ### Memberships and Affiliations ###
 
-Member of FinTech Australia, an organisation dedicated to making Australia one of the world's leading markets for FinTech innovation, adoption and investment.
+<img align="right" src="images/FinTech-Australia-Membership.png"> Member of FinTech Australia, an organisation dedicated to making Australia one of the world's leading markets for FinTech innovation, adoption and investment.
 
-Member of the Australian Finance Industry Association, the leading advocate for Australia's finance sector. Moula was one of the six original signatories to AFIA's Code of Lending Practice.
-
-<div class="video-fallback">
-  See the video: <a href="https://www.youtube.com/watch?v=MqL6BMOySIQ">Video title</a>.
-</div>
-<figure class="video-container">
-  <iframe src="https://www.youtube.com/embed/MqL6BMOySIQ" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+<img align="right" src="images/AFIA-Membership.png"> Member of the Australian Finance Industry Association, the leading advocate for Australia's finance sector. Moula was one of the six original signatories to AFIA's Code of Lending Practice.
 
 ### Customer Stories ###
 
@@ -69,6 +62,8 @@ Member of the Australian Finance Industry Association, the leading advocate for 
 <figure class="video-container">
   <iframe src="https://www.youtube.com/embed/MqL6BMOySIQ" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+
+[![Customer Story](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/uWvvK6z5Y8k)  
 
 More stories - 
 
@@ -103,9 +98,7 @@ Piers is credited for the development of Moula’s proprietary platform that sim
 
 Aris co-founded Moula to provide Australian SMEs with a better way to access finance. Growing up around a family business, he experienced first-hand the challenges faced by SMEs.
 
-Aris is a co-fouder with over 15 years’ experience working in banking in London and Hong Kong, including roles with Credit Suisse and Nomura.
-
-He holds an MBA from London Business School, and a Bachelor of Commerce and Bachelor of Law from Monash University.
+Aris is a co-fouder with over 15 years’ experience working in banking in London and Hong Kong, including roles with Credit Suisse and Nomura. He holds an MBA from London Business School, and a Bachelor of Commerce and Bachelor of Law from Monash University.
 
 ## Funding ##
 
