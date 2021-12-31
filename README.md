@@ -7,6 +7,8 @@
 - [Table of Contents](#table-of-contents)
 - [Overview and Origin](#overview-and-origin)
   - [Introduction](#introduction)
+  - [Customer Stories](#customer-stories)
+  - [More Customer Stories ###](#more-customer-stories-)
 - [Founders](#founders)
   - [Andrew Watt](#andrew-watt)
   - [Piers Moller](#piers-moller)
@@ -41,6 +43,17 @@
 Established in 2013, Moula is an Australian FinTech that provides working capital to small and medium business to help grow their business. By integrating accounting data with machine learning and artificial intelligence, Moula can process loan applications and make responsible lending decisions within minutes. Successful loan applications can result in business loans of up to $500,000 being made available in 24-48 hours.
 
 <img align="right" src="images/AFIA-Membership.png"> Moula is one of the six original signatories to Australian Finance Industry Association Code of Lending Practice.
+
+### Customer Stories ###
+
+[![Moula - Customer Story](https://img.youtube.com/vi/5Uh720poZ8w/maxresdefault.jpg)](https://youtu.be/5Uh720poZ8w)
+
+### More Customer Stories ### 
+
+* Story 1 
+* Story 2 
+* Story 3
+* Story 4
 
 ## Founders ##
 
@@ -91,7 +104,7 @@ Date | Funding Round | Money Raised
 9 June 2015  | Series A | $30M
 1 November 2014 | Seed Round | $1M
 
-[Invest Victoria](https://www.invest.vic.gov.au/opportunities/fintech "Invest Victoria") reports the company has raised $160 million Series D in 2020.
+[Invest Victoria](https://www.invest.vic.gov.au/opportunities/fintech "Invest Victoria") reports the company raised $160 million Series D in 2020.
 
 ## Business Activities ##
 
@@ -105,7 +118,7 @@ Date | Funding Round | Money Raised
 
 Justin Green is the Chief Product and Strategy Officer for Moula, and explains that for many businesses traditional banks simply don’t work.
 
-“If you don’t have the benefit of assets, like the family home to put up as collateral, then your ability to borrow money from the bank is pretty limited. So Moula’s thesis was very much ‘can we partner with small businesses?’, try and demystify this volatility that exists in small businesses, encourage this open-sharing of business data, as the critical asset to understand the nature of someone’s business,” says Green.
+> “If you don’t have the benefit of assets, like the family home to put up as collateral, then your ability to borrow money from the bank is pretty limited. So Moula’s thesis was very much ‘can we partner with small businesses?’, try and demystify this volatility that exists in small businesses, encourage this open-sharing of business data, as the critical asset to understand the nature of someone’s business,” says Green.
 
 What Moula recognised was the value of the data that small business held about itself. If there was a way for lenders to see that data, analyse it, and assess the opportunities and risk – in short, determine the creditworthiness of the business – then it would be possible to identify who to offer loans to, because the data revealed that the underlying business was a good bet.
 
@@ -117,13 +130,19 @@ Australia is home to around 2.3 million businesses. Most of them class as small 
 
 Small to medium businesses are the backbone of the Australian economy, creating around 7 million jobs, contributing to 57% of Australia's GDP and cementing our reputation as a nation of entrepreneurs.
 
-“The small business sector is already powering Australia's economic recovery. In the three months to August 2021, $10 billion in new lending was made to small business, a 26% jump from $7.9 billion in the three months to August 2020.
+> “The small business sector is already powering Australia's economic recovery. In the three months to August 2021, $10 billion in new lending was made to small business, a 26% jump from $7.9 billion in the three months to August 2020.
 
 https://business.nab.com.au/wp-content/uploads/2017/06/J002580_MTM-Whitepaper-IPSOS-FINAL_C1-2.pdf 
 
 https://www.smartcompany.com.au/finance/economy/smes-government-consumers-collective-effort-economic-recovery/
 
 https://www.ausbanking.org.au/inaugural-roundtable-paves-small-business-road-to-recovery/ 
+
+Justin Green is the Chief Product and Strategy Officer for Moula explains why traditional banks don’t work for many Australian businesses –
+
+> “If you don’t have the benefit of assets, like the family home to put up as collateral, then your ability to borrow money from the bank is pretty limited. So Moula’s thesis was very much ‘can we partner with small businesses?’, try and demystify this volatility that exists in small businesses, encourage this open-sharing of business data, as the critical asset to understand the nature of someone’s business.” – Justin Green
+
+Green says the actual process of applying for a Moula business loan takes 7-10 minutes. It involves completing a fairly light touch application form, and granting approval for Moula to access the applicant’s business data. That’s generally achieved through an API into a data source, such as Xero.
 
 ### What solution does this company offer that their competitors do not or cannot offer? ###
 
@@ -135,21 +154,10 @@ https://user-images.githubusercontent.com/95597283/147745323-1ac3c156-4987-463d-
 
 Moula uses data, AI and machine learning to assess business loan applications made online. Successful applications can result in business loans of up to $500,000 being made available in 24-48 hours. 
 
-Justin Green is the Chief Product and Strategy Officer for Moula explains why traditional banks don’t work for many Australian businesses –
-
-> “If you don’t have the benefit of assets, like the family home to put up as collateral, then your ability to borrow money from the bank is pretty limited. So Moula’s thesis was very much ‘can we partner with small businesses?’, try and demystify this volatility that exists in small businesses, encourage this open-sharing of business data, as the critical asset to understand the nature of someone’s business.” – Justin Green
-
-Green says the actual process of applying for a Moula business loan takes 7-10 minutes. It involves completing a fairly light touch application form, and granting approval for Moula to access the applicant’s business data. That’s generally achieved through an API into a data source, such as Xero.
-
-According to Paul Pesavento, Moula’s Chief Data Officer; 
-
-> “Taking into consideration the licensing and service expenses, Azure is more cost-effective. As we are using PaaS, we are no longer concerned with updating the VMs and patching the frameworks. Azure provides better and more fine-grained security. It has helped us to use advanced threat detection and security features in Azure SQL databases we are using. Last but not least, we can scale up to any kind of workload we have to deal with.”
-
 Moula worked with Microsoft partner, BizData to plan and execute the transition. Together they established an Azure based data warehouse using Azure SQL DB, implemented Power BI to run business analytics, and leverage Azure AI and machine learning capabilities to assess data and analyse risk.
 Rachel Bondi, general manager, One Commercial Partner, Microsoft Australia, applauds the partnership between BizData and Moula, for the vision it brought to the market.
 
 > “Small business is the engine room of Australia’s economy. It’s where most people work, and without small business big business simply could not function. The vision of Moula in terms of liberating the value in small business data is impressive, and the partnership with BizData using Microsoft AI technology to bring that vision to life is a prime example of collaboration across our ecosystem to bring about not just business transformation, but sector transformation.”
-AI and machine learning key to success
 
 A machine learning decision model developed using Scikit-Learn machine learning algorithms that are accessed through Azure Machine Learning Services, then provide a prediction of the probability (or risk) of the SME being able to pay back its loan.
 
@@ -157,19 +165,11 @@ Moula has been able to refine that prediction by using historical data from past
 
 > “We use Azure Machine Learning Services to calibrate the risk engine models, which includes retraining them on updated historical data and assessing the performance of alternate models and associated hyperparameters.”
 
-With a DevOps approach to innovation Pesavento explains; “We are using App Services for .net, app service containers for Linux, Functions, Azure SQL database, ServiceBus, CosmosDB, Azure Documents, Data Factory, Key Vault, VMs.”
-
-The technology foundations now in place at Moula are also supporting its ongoing innovation efforts. Green points to the initiative with Xero which offers a buy-now pay-later facility for small businesses.
-
-> “Essentially this uses some payment service integration for Xero accounting customers as merchants. So they can issue invoices and get paid upfront, while their end-customer is able to repay over 12 months with Moula Pay, and benefits from the three months, no interest, no repayments opportunity.”
+[![Moula - Customer Story](https://img.youtube.com/vi/43-mCw-styM/maxresdefault.jpg)](https://youtu.be/43-mCw-styM)
 
 Well aware of the value of that data Moula deploys multiple layers of defence in order to ensure data is protected. As part of its security controls, Moula takes advantage of Azure security features such as Advanced Data Security and Dynamic Data Masking.
 
 It also has documents and files stored in private storage accounts accessible via its own application and uses KeyVault to ensure there are no naked connection strings or access keys in any deployed applications. It also employs IP whitelisting and subnets to restrict access to some applications and VMs. Operating in a currently self-regulated part of the financial services market Moula nevertheless expects to be impacted by changing regulations affecting other institutions.
-
-Pesavento for example expects that the arrival of open banking in Australia will accelerate the interest in alternative financial solutions as people and business grow used to greater choice and flexibility.
-
-> “Whilst customers already have the ability to share their banking data with us, the move to open banking should make this practice more common place and trusted, and help customers feel more in control of their data and able to use that data to more easily and more quickly access services from non-bank providers including Moula. “More of our potential customers will feel more confident and in control of their banking data, and being more aware of it as a way of doing business. It just increases the appetite for the sort of services we provide and for customers to look outside of their existing banking relationships.”
 
 ## Landscape 
 
