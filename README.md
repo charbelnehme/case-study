@@ -20,9 +20,6 @@
   - [What solution does this company offer that their competitors do not or cannot offer?](#what-solution-does-this-company-offer-that-their-competitors-do-not-or-cannot-offer)
   - [Which technologies are they currently using, and how are they implementing them?](#which-technologies-are-they-currently-using-and-how-are-they-implementing-them)
 - [Landscape](#landscape)
-  - [What domain of the financial industry is the company in? ###](#what-domain-of-the-financial-industry-is-the-company-in-)
-  - [What have been the major trends and innovations of this domain over the last 5-10 years?](#what-have-been-the-major-trends-and-innovations-of-this-domain-over-the-last-5-10-years)
-  - [What are the other major companies in this domain?](#what-are-the-other-major-companies-in-this-domain)
 - [Results](#results)
   - [What has been the business impact of this company so far?](#what-has-been-the-business-impact-of-this-company-so-far)
   - [What are some of the core metrics that companies in this domain use to measure success?](#what-are-some-of-the-core-metrics-that-companies-in-this-domain-use-to-measure-success)
@@ -30,8 +27,7 @@
 - [Recommendations](#recommendations)
   - [If you were to advise the company, what products or services would you suggest they offer?](#if-you-were-to-advise-the-company-what-products-or-services-would-you-suggest-they-offer)
   - [Why do you think that offering this product or service will benefit the company?](#why-do-you-think-that-offering-this-product-or-service-will-benefit-the-company)
-  - [What technologies would this product or service utilise?](#what-technologies-would-this-product-or-service-utilise)
-  - [Why are these technologies appropriate for your solution? ###](#why-are-these-technologies-appropriate-for-your-solution-)
+  - [What technologies would this product or service utilise? Why are these technologies appropriate for your solution?](#what-technologies-would-this-product-or-service-utilise-why-are-these-technologies-appropriate-for-your-solution)
 
 
 ## Overview and Origin 
@@ -189,12 +185,6 @@ Pesavento for example expects that the arrival of open banking in Australia will
 > 
 > What are the other major companies in this domain?
 
-### What domain of the financial industry is the company in? ### 
-
-Insert text 
-
-### What have been the major trends and innovations of this domain over the last 5-10 years? ###
-
 In 2019, the A$3.8 billion Australian fintech sector1 saw 252 per cent growth in fintech investment.  Frost and Sullivan estimated growth between 2015-20 to be 76.3 per cent per annum and with more than 40 per cent of consumers yet to become fintech adopters the market is predicted to grow further to $18 billion by 20301.
 
 Australian FinTech revenue will grow at a CAGR of 76.3% and exceed A$4 billion by 2020, driven by reduced taxes on investments in startups, steady increase in mobile payments, and rise of Tech-savy digital natives. The Australian Fintech Sector generated A$247.2 million in 2015. Sharp growth in the Fintech market in 2016 and 2017, followed by steady increases through to 2020, is likely spur growth.
@@ -210,8 +200,6 @@ Some disruptors have been observed in the growing Australian FinTech market. New
 Market revenue in this report only includes revenues of those companies that disrupt the existing financial sector. FinTech companies included in this report use technologies that fundamentally challenge existing financial institutions.
 
 The base year for analysis is 2015 and the forecast period is 2016 to 2020. Revenue is provided given in US dollars when pertaining to the global FinTech sector and in Australian Dollars when pertaining to the Australian FinTech sector.
-
-### What are the other major companies in this domain? ###
 
 Melbourne is home to more than 330 fintech start-ups, and by the end of 2020, there were five homegrown fintech unicorns headquartered in Melbourne, collectively valued at over US$30 billion.
 
@@ -260,18 +248,30 @@ Insert text
 > 
 > Why are these technologies appropriate for your solution?
 
+Moula does not operate in the consumer lending sector in Australia, in which lenders provide finance solutions for a variety of personal funding requirements. A significant opportunity exists with these type of consumers who are underserved by the major banks and traditional lenders in Australia. 
+
+A combination of Moula’s Azure Machine Learning algorithm and risk-based lending principles to assess credit risk and streamline the credit approval process may translate to a frictionless credit product and positive customer experience. A key component of a Moula business loan is the online application process, which takes up to 10 minutes to complete, and the capability for funds to be disbursed or credit facilities to be available to the business customer shortly after approval.
+
 ### If you were to advise the company, what products or services would you suggest they offer? ###
 
-Insert text
+Moula does not operate in the consumer lending sector in Australia, in which lenders provide finance solutions for a variety of personal funding requirements. A significant opportunity exists with these types of consumers who are underserved by the major banks and traditional lenders in Australia. 
+
+A combination of Moula’s Azure Machine Learning algorithm and risk-based lending principles to assess credit risk and streamline the credit approval process may translate to a frictionless credit product and positive customer experience. A key component of a Moula business loan is the online application process, which takes up to 10 minutes to complete, and the capability for funds to be disbursed or credit facilities to be available to the business customer shortly after approval.
 
 ### Why do you think that offering this product or service will benefit the company? ###
 
-Insert text
+Consumer lending in the FinTech space has proven successful by MoneyMe, a digital financial service company that offers fast and easy credit products to tech-savvy Australian consumers MoneyMe utilise a tech-driven platform, to provide consumers with a seamless online process done in minutes via their mobile phone. The company has raised A$388M and was ASX listed on 27 September 2021 with a valuation of $A211.8M.
 
-### What technologies would this product or service utilise? ###
+### What technologies would this product or service utilise? Why are these technologies appropriate for your solution? ###
 
-Insert text 
+Technology must -
 
-### Why are these technologies appropriate for your solution? ### 
+* support scale and drive efficiency through automation
+* enhance credit decisioning
+* utilise data analytics to inform and improve data-driven decision-making through artificial intelligence and machine learning 
+* deliver dynamic customer processes to provide a seamless customer experience
+* allow for constant product innovation, which is facilitated through the technology platform being modular in nature
+* provide security and protection of customer data through all layers of the platform. 
 
-Insert text 
+Moula relies on third party software for key functions, including Microsoft Azure (for cloud-hosting and data storage), and third-party service providers for key data, including Equifax (for credit information on applicants). 
+The technology platform should consume data from multiple sources (including third parties like credit bureaus and financial institutions) and, through artificial intelligence, use this data to make data-driven responsible lending decisions. 
