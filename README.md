@@ -17,12 +17,23 @@
   - [Crunchbase](#crunchbase)
   - [Invest Victoria](#invest-victoria)
 - [Business Activities](#business-activities)
+  - [What specific financial activities is the company or project trying to solve?](#what-specific-financial-activities-is-the-company-or-project-trying-to-solve)
+  - [Who is the companies intended customer? Is there any information about the market size of this set of customers?](#who-is-the-companies-intended-customer-is-there-any-information-about-the-market-size-of-this-set-of-customers)
+  - [What solution does this company offer that their competitors do not or cannot offer?](#what-solution-does-this-company-offer-that-their-competitors-do-not-or-cannot-offer)
+  - [Which technologies are they currently using, and how are they implementing them?](#which-technologies-are-they-currently-using-and-how-are-they-implementing-them)
+- [Landscape](#landscape)
+  - [What domain of the financial industry is the company in? ###](#what-domain-of-the-financial-industry-is-the-company-in-)
   - [What have been the major trends and innovations of this domain over the last 5-10 years?](#what-have-been-the-major-trends-and-innovations-of-this-domain-over-the-last-5-10-years)
   - [What are the other major companies in this domain?](#what-are-the-other-major-companies-in-this-domain)
 - [Results](#results)
   - [What has been the business impact of this company so far?](#what-has-been-the-business-impact-of-this-company-so-far)
   - [What are some of the core metrics that companies in this domain use to measure success?](#what-are-some-of-the-core-metrics-that-companies-in-this-domain-use-to-measure-success)
+  - [How is the company performing relative to competitors in the same domain? ###](#how-is-the-company-performing-relative-to-competitors-in-the-same-domain-)
 - [Recommendations](#recommendations)
+  - [If you were to advise the company, what products or services would you suggest they offer?](#if-you-were-to-advise-the-company-what-products-or-services-would-you-suggest-they-offer)
+  - [Why do you think that offering this product or service will benefit the company?](#why-do-you-think-that-offering-this-product-or-service-will-benefit-the-company)
+  - [What technologies would this product or service utilise?](#what-technologies-would-this-product-or-service-utilise)
+  - [Why are these technologies appropriate for your solution? ###](#why-are-these-technologies-appropriate-for-your-solution-)
 
 
 ## Overview and Origin 
@@ -125,19 +136,46 @@ Date | Funding Round | Money Raised
 
 ## Business Activities ##
 
-**What specific financial activities is the company or project trying to solve? 
+> What specific financial activities is the company or project trying to solve? 
+>
+> Who is the company's intended customer? Is there any information about the market size of this set of customers? 
+>
+> What solution does this company offer that their competitors do not or cannot offer? 
 
-Who is the company's intended customer? Is there any information about the market size of this set of customers? 
+### What specific financial activities is the company or project trying to solve? ###
 
-What solution does this company offer that their competitors do not or cannot offer? 
+Justin Green is the Chief Product and Strategy Officer for Moula, and explains that for many businesses traditional banks simply don’t work.
 
-**SMART Box™** is the new way to compare business loans. It stands for: Straightforward Metrics Around Rate and Total cost and shows key metrics so you can compare the cost of capital. Because when it comes to business loans, it pays to compare.
+“If you don’t have the benefit of assets, like the family home to put up as collateral, then your ability to borrow money from the bank is pretty limited. So Moula’s thesis was very much ‘can we partner with small businesses?’, try and demystify this volatility that exists in small businesses, encourage this open-sharing of business data, as the critical asset to understand the nature of someone’s business,” says Green.
+
+What Moula recognised was the value of the data that small business held about itself. If there was a way for lenders to see that data, analyse it, and assess the opportunities and risk – in short, determine the creditworthiness of the business – then it would be possible to identify who to offer loans to, because the data revealed that the underlying business was a good bet.
+
+Moula struck partnerships with the likes of cloud accounting business Xero that many small businesses already trust with their data, and started to develop an intelligent platform to underpin the loan process.
+
+### Who is the companies intended customer? Is there any information about the market size of this set of customers? 
+
+Australia is home to around 2.3 million businesses. Most of them class as small and medium – and between them they employ around 7 out of 10 workers, and contribute almost $6 out of every $10 of the nation’s GDP.
+
+Small to medium businesses are the backbone of the Australian economy, creating around 7 million jobs, contributing to 57% of Australia's GDP and cementing our reputation as a nation of entrepreneurs.
+
+“The small business sector is already powering Australia's economic recovery. In the three months to August 2021, $10 billion in new lending was made to small business, a 26% jump from $7.9 billion in the three months to August 2020.
+
+https://business.nab.com.au/wp-content/uploads/2017/06/J002580_MTM-Whitepaper-IPSOS-FINAL_C1-2.pdf 
+
+https://www.smartcompany.com.au/finance/economy/smes-government-consumers-collective-effort-economic-recovery/
+
+https://www.ausbanking.org.au/inaugural-roundtable-paves-small-business-road-to-recovery/ 
+
+### What solution does this company offer that their competitors do not or cannot offer? ###
+
+SmartBox is the new way to compare business loans. It stands for: Straightforward Metrics Around Rate and Total cost and shows key metrics so you can compare the cost of capital. Because when it comes to business loans, it pays to compare.
 
 https://user-images.githubusercontent.com/95597283/147745323-1ac3c156-4987-463d-a8f9-514c32aaf64d.mp4
 
-Which technologies are they currently using, and how are they implementing them? **
+### Which technologies are they currently using, and how are they implementing them? ###
 
 Moula uses data, AI and machine learning to assess business loan applications made online. Successful applications can result in business loans of up to $500,000 being made available in 24-48 hours. 
+
 Justin Green is the Chief Product and Strategy Officer for Moula explains why traditional banks don’t work for many Australian businesses –
 
 > “If you don’t have the benefit of assets, like the family home to put up as collateral, then your ability to borrow money from the bank is pretty limited. So Moula’s thesis was very much ‘can we partner with small businesses?’, try and demystify this volatility that exists in small businesses, encourage this open-sharing of business data, as the critical asset to understand the nature of someone’s business.” – Justin Green
@@ -174,8 +212,17 @@ Pesavento for example expects that the arrival of open banking in Australia will
 
 > “Whilst customers already have the ability to share their banking data with us, the move to open banking should make this practice more common place and trusted, and help customers feel more in control of their data and able to use that data to more easily and more quickly access services from non-bank providers including Moula. “More of our potential customers will feel more confident and in control of their banking data, and being more aware of it as a way of doing business. It just increases the appetite for the sort of services we provide and for customers to look outside of their existing banking relationships.”
 
+## Landscape 
 
-**What domain of the financial industry is the company in? 
+> What domain of the financial industry is the company in?
+> 
+> What have been the major trends and innovations of this domain over the last 5-10 years?
+> 
+> What are the other major companies in this domain?
+
+### What domain of the financial industry is the company in? ### 
+
+Insert text 
 
 ### What have been the major trends and innovations of this domain over the last 5-10 years? ###
 
@@ -195,7 +242,6 @@ Market revenue in this report only includes revenues of those companies that dis
 
 The base year for analysis is 2015 and the forecast period is 2016 to 2020. Revenue is provided given in US dollars when pertaining to the global FinTech sector and in Australian Dollars when pertaining to the Australian FinTech sector.
 
-**
 ### What are the other major companies in this domain? ###
 
 Melbourne is home to more than 330 fintech start-ups, and by the end of 2020, there were five homegrown fintech unicorns headquartered in Melbourne, collectively valued at over US$30 billion.
@@ -217,20 +263,46 @@ Prospa has raised a total of $96.7M in funding over 5 rounds. Their latest fundi
 
 ## Results ##
 
+> What has been the business impact of this company so far? 
+> 
+> What are some of the core metrics that companies in this domain use to measure success? 
+> 
+> How is the company performing relative to competitors in the same domain? 
+
 ### What has been the business impact of this company so far? ###
+
+Insert text 
 
 ### What are some of the core metrics that companies in this domain use to measure success? ###
 
-**How is the company performing relative to competitors in the same domain? **
+Insert text 
+
+### How is the company performing relative to competitors in the same domain? ### 
+
+Insert text 
 
 ## Recommendations ##
 
-**If you were to advise the company, what products or services would you suggest they offer? **
+> If you were to advise the company, what products or services would you suggest they offer? 
+> 
+> Why do you think that offering this product or service will benefit the company? 
+> 
+> What technologies would this product or service utilise? 
+> 
+> Why are these technologies appropriate for your solution?
 
-**Why do you think that offering this product or service will benefit the company? **
+### If you were to advise the company, what products or services would you suggest they offer? ###
 
-**What technologies would this product or service utilise? **
+Insert text
 
-**Why are these technologies appropriate for your solution? **
+### Why do you think that offering this product or service will benefit the company? ###
 
-[![SmartBox](https://github.com/charbelnehme/case-study/resources/Moula-SmartBox.mp4) 
+Insert text
+
+### What technologies would this product or service utilise? ###
+
+Insert text 
+
+### Why are these technologies appropriate for your solution? ### 
+
+Insert text 
