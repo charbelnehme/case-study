@@ -7,9 +7,6 @@
 - [Table of Contents](#table-of-contents)
 - [Overview and Origin](#overview-and-origin)
   - [Introduction](#introduction)
-  - [Customer Stories](#customer-stories)
-  - [More Customer Stories ###](#more-customer-stories-)
-- [Founders](#founders)
   - [Andrew Watt](#andrew-watt)
   - [Piers Moller](#piers-moller)
   - [Aris Allegos](#aris-allegos)
@@ -42,24 +39,13 @@
 
 Established in 2013, Moula is an Australian FinTech that provides working capital to small and medium business to help grow their business. By integrating accounting data with machine learning and artificial intelligence, Moula can process loan applications and make responsible lending decisions within minutes. Successful loan applications can result in business loans of up to $500,000 being made available in 24-48 hours.
 
-<img align="right" src="images/AFIA-Membership.png"> Moula is one of the six original signatories to Australian Finance Industry Association Code of Lending Practice. (  )
+<img align="right" src="images/AFIA-Membership.png"> Moula is one of the six original signatories to Australian Finance Industry Association Code of Lending Practice. 
 
-### Customer Stories ###
-
-[![Moula - Customer Story](https://img.youtube.com/vi/5Uh720poZ8w/maxresdefault.jpg)](https://youtu.be/5Uh720poZ8w)
-
-### More Customer Stories ### 
-
-* Story 1 
-* Story 2 
-* Story 3
-* Story 4
-
-## Founders ##
-
-> Who are the founders of the company?
-
-> Team members
+<br/>
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+<br/>
 
 ### Andrew Watt ###
 
@@ -82,6 +68,12 @@ Piers is credited for the development of Moula’s proprietary platform that sim
 Aris co-founded Moula to provide Australian SMEs with a better way to access finance. Growing up around a family business, he experienced first-hand the challenges faced by SMEs.
 
 Aris is a co-fouder with over 15 years’ experience working in banking in London and Hong Kong, including roles with Credit Suisse and Nomura. He holds an MBA from London Business School, and a Bachelor of Commerce and Bachelor of Law from Monash University.
+
+<br/>
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+<br/>
 
 ## Funding ##
 
@@ -106,6 +98,12 @@ Date | Funding Round | Money Raised
 
 [Invest Victoria](https://www.invest.vic.gov.au/opportunities/fintech "Invest Victoria") reports the company raised $160 million Series D in 2020.
 
+<br/>
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+<br/>
+
 ## Business Activities ##
 
 > What specific financial activities is the company or project trying to solve? 
@@ -123,6 +121,12 @@ Justin Green is the Chief Product and Strategy Officer for Moula, and explains t
 What Moula recognised was the value of the data that small business held about itself. If there was a way for lenders to see that data, analyse it, and assess the opportunities and risk – in short, determine the creditworthiness of the business – then it would be possible to identify who to offer loans to, because the data revealed that the underlying business was a good bet.
 
 Moula struck partnerships with the likes of cloud accounting business Xero that many small businesses already trust with their data, and started to develop an intelligent platform to underpin the loan process.
+
+<br/>
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+<br/>
 
 ### Who is the companies intended customer? Is there any information about the market size of this set of customers? 
 
@@ -144,11 +148,23 @@ Justin Green is the Chief Product and Strategy Officer for Moula explains why tr
 
 Green says the actual process of applying for a Moula business loan takes 7-10 minutes. It involves completing a fairly light touch application form, and granting approval for Moula to access the applicant’s business data. That’s generally achieved through an API into a data source, such as Xero.
 
+<br/>
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+<br/>
+
 ### What solution does this company offer that their competitors do not or cannot offer? ###
 
 SmartBox is the new way to compare business loans. It stands for: Straightforward Metrics Around Rate and Total cost and shows key metrics so you can compare the cost of capital. Because when it comes to business loans, it pays to compare.
 
 https://user-images.githubusercontent.com/95597283/147745323-1ac3c156-4987-463d-a8f9-514c32aaf64d.mp4
+
+<br/>
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+<br/>
 
 ### Which technologies are they currently using, and how are they implementing them? ###
 
@@ -170,6 +186,12 @@ Moula has been able to refine that prediction by using historical data from past
 Well aware of the value of that data Moula deploys multiple layers of defence in order to ensure data is protected. As part of its security controls, Moula takes advantage of Azure security features such as Advanced Data Security and Dynamic Data Masking.
 
 It also has documents and files stored in private storage accounts accessible via its own application and uses KeyVault to ensure there are no naked connection strings or access keys in any deployed applications. It also employs IP whitelisting and subnets to restrict access to some applications and VMs. Operating in a currently self-regulated part of the financial services market Moula nevertheless expects to be impacted by changing regulations affecting other institutions.
+
+<br/>
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+<br/>
 
 ## Landscape 
 
@@ -212,6 +234,12 @@ Prospa provides unsecured business loans to small businesses in Australia and is
 Prospa - $96.7M funding and an additional $109.6M raised at IPO. Company valued at $609.9M (11 June 2019).
 Prospa has raised a total of $96.7M in funding over 5 rounds. Their latest funding was raised on Jan 1, 2018 from a Undisclosed round.Prospa is registered under the ticker ASX:PGL. Their stock opened with A$3.78 in its Jun 11, 2019 IPO.Prospa is funded by 7 investors. Poalim Equity and Partners for Growth are the most recent investors.
 
+<br/>
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+<br/>
+
 ## Results ##
 
 > What has been the business impact of this company so far? 
@@ -232,6 +260,12 @@ Insert text
 
 Insert text 
 
+<br/>
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+<br/>
+
 ## Recommendations ##
 
 > If you were to advise the company, what products or services would you suggest they offer? 
@@ -246,15 +280,33 @@ Moula does not operate in the consumer lending sector in Australia, in which len
 
 A combination of Moula’s Azure Machine Learning algorithm and risk-based lending principles to assess credit risk and streamline the credit approval process may translate to a frictionless credit product and positive customer experience. A key component of a Moula business loan is the online application process, which takes up to 10 minutes to complete, and the capability for funds to be disbursed or credit facilities to be available to the business customer shortly after approval.
 
+<br/>
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+<br/>
+
 ### If you were to advise the company, what products or services would you suggest they offer? ###
 
 Moula does not operate in the consumer lending sector in Australia, in which lenders provide finance solutions for a variety of personal funding requirements. A significant opportunity exists with these types of consumers who are underserved by the major banks and traditional lenders in Australia. 
 
 A combination of Moula’s Azure Machine Learning algorithm and risk-based lending principles to assess credit risk and streamline the credit approval process may translate to a frictionless credit product and positive customer experience. A key component of a Moula business loan is the online application process, which takes up to 10 minutes to complete, and the capability for funds to be disbursed or credit facilities to be available to the business customer shortly after approval.
 
+<br/>
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+<br/>
+
 ### Why do you think that offering this product or service will benefit the company? ###
 
 Consumer lending in the FinTech space has proven successful by MoneyMe, a digital financial service company that offers fast and easy credit products to tech-savvy Australian consumers MoneyMe utilise a tech-driven platform, to provide consumers with a seamless online process done in minutes via their mobile phone. The company has raised A$388M and was ASX listed on 27 September 2021 with a valuation of $A211.8M.
+
+<br/>
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+<br/>
 
 ### What technologies would this product or service utilise? Why are these technologies appropriate for your solution? ###
 
@@ -269,3 +321,9 @@ Technology must -
 
 Moula relies on third party software for key functions, including Microsoft Azure (for cloud-hosting and data storage), and third-party service providers for key data, including Equifax (for credit information on applicants). 
 The technology platform should consume data from multiple sources (including third parties like credit bureaus and financial institutions) and, through artificial intelligence, use this data to make data-driven responsible lending decisions. 
+
+<br/>
+<div align="right">
+    <b><a href="#----">↥ back to top</a></b>
+</div>
+<br/>
