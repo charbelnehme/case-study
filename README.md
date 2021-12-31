@@ -81,11 +81,11 @@ Aris is a co-fouder with over 15 years’ experience working in banking in Londo
 ### Crunchbase ###
 
 According to Crunchbase, Moula has raised a total of $50.9M in funding over 3 rounds from the following investors - 
-* Acorn Capital 
-* Liberity Financial 
-* Escala Partners 
-* NCN Investments 
-* Liberty Financial Companies, Inc
+* [Acorn Capital](https://www.acorncapital.com.au/ "Acorn Capital")
+* [Liberty Financial](https://www.liberty.com.au/ "Liberty Financial")
+* [Escala Partners](https://escalapartners.com.au/ "Escala Partners")
+* [NCN Investments](https://www.linkedin.com/company/ncn-investments/about/ "NCN Investments")
+* [Liberty Financial Companies, Inc](https://www.liberty.com.au/ "Liberty Financial Companies")
 
 Their latest funding was raised on December 9, 2019 from a Series D round. Acorn Capital and Liberty Financial are the most recent investors. 
 
