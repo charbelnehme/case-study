@@ -7,8 +7,6 @@
 - [Table of Contents](#table-of-contents)
 - [Overview and Origin](#overview-and-origin)
   - [Introduction](#introduction)
-  - [Memberships and Affiliations](#memberships-and-affiliations)
-  - [Customer Stories](#customer-stories)
 - [Founders](#founders)
   - [Andrew Watt](#andrew-watt)
   - [Piers Moller](#piers-moller)
@@ -48,29 +46,7 @@
 
 Established in 2013, Moula is an Australian FinTech that provides working capital to small and medium business to help grow their business. By integrating accounting data with machine learning and artificial intelligence, Moula can process loan applications and make responsible lending decisions within minutes. Successful loan applications can result in business loans of up to $500,000 being made available in 24-48 hours.
 
-### Memberships and Affiliations ###
-
-<img align="right" src="images/FinTech-Australia-Membership.png"> Member of FinTech Australia, an organisation dedicated to making Australia one of the world's leading markets for FinTech innovation, adoption and investment.
-
-<img align="right" src="images/AFIA-Membership.png"> Member of the Australian Finance Industry Association, the leading advocate for Australia's finance sector. Moula was one of the six original signatories to AFIA's Code of Lending Practice.
-
-### Customer Stories ###
-
-<div class="video-fallback">
-  See the video: <a href="https://www.youtube.com/watch?v=MqL6BMOySIQ">Video title</a>.
-</div>
-<figure class="video-container">
-  <iframe src="https://www.youtube.com/embed/MqL6BMOySIQ" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-[![Customer Story](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/uWvvK6z5Y8k)  
-
-More stories - 
-
-* Story 1 
-* Story 2
-* Story 3 
-* Story 4
+<img align="right" src="images/AFIA-Membership.png"> Moula is one of the six original signatories to Australian Finance Industry Association Code of Lending Practice.
 
 ## Founders ##
 
