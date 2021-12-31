@@ -12,8 +12,6 @@
   - [Piers Moller](#piers-moller)
   - [Aris Allegos](#aris-allegos)
 - [Funding](#funding)
-  - [Crunchbase](#crunchbase)
-  - [Invest Victoria](#invest-victoria)
 - [Business Activities](#business-activities)
   - [What specific financial activities is the company or project trying to solve?](#what-specific-financial-activities-is-the-company-or-project-trying-to-solve)
   - [Who is the companies intended customer? Is there any information about the market size of this set of customers?](#who-is-the-companies-intended-customer-is-there-any-information-about-the-market-size-of-this-set-of-customers)
@@ -78,9 +76,7 @@ Aris is a co-fouder with over 15 years’ experience working in banking in Londo
 > 
 > How much funding have they received? 
 
-### Crunchbase ###
-
-According to Crunchbase, Moula has raised a total of $50.9M in funding over 3 rounds from the following investors - 
+According to [Crunchbase](https://www.crunchbase.com/organization/moula "Crunchbase"), Moula has raised a total of $50.9M in funding over 3 rounds from the following investors - 
 * [Acorn Capital](https://www.acorncapital.com.au/ "Acorn Capital")
 * [Liberty Financial](https://www.liberty.com.au/ "Liberty Financial")
 * [Escala Partners](https://escalapartners.com.au/ "Escala Partners")
@@ -95,9 +91,7 @@ Date | Funding Round | Money Raised
 9 June 2015  | Series A | $30M
 1 November 2014 | Seed Round | $1M
 
-### Invest Victoria ###
-
-<img align="right" src="images/InvestVictoria.gif"> Invest Victoria (https://www.invest.vic.gov.au/opportunities/fintech) reports the company has raised $160 million Series D in 2020.
+[Invest Victoria](https://www.invest.vic.gov.au/opportunities/fintech "Invest Victoria") reports the company has raised $160 million Series D in 2020.
 
 ## Business Activities ##
 
