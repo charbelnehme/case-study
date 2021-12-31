@@ -7,11 +7,13 @@
 - [Table of Contents](#table-of-contents)
 - [Overview and Origin](#overview-and-origin)
   - [Introduction](#introduction)
-- [Who are the founders of the company](#who-are-the-founders-of-the-company)
+  - [Memberships and Affiliations](#memberships-and-affiliations)
+  - [Customer Stories](#customer-stories)
+- [Founders](#founders)
   - [Andrew Watt](#andrew-watt)
   - [Piers Moller](#piers-moller)
   - [Aris Allegos](#aris-allegos)
-- [How is the company funded? How much funding have they received?](#how-is-the-company-funded-how-much-funding-have-they-received)
+- [Funding](#funding)
   - [Crunchbase](#crunchbase)
   - [Invest Victoria](#invest-victoria)
 - [Business Activities](#business-activities)
@@ -25,12 +27,21 @@
 
 ## Overview and Origin 
 
+> Name of company
+>  
+> When was the company incorporated? 
+> 
+> How did the idea for the company come about? 
+
 ### Introduction ###
-  
-Established in 2013, Moula is an Australian FinTech that provides working capital to small and medium business to help grow their business. By integrating accounting data with machine learning and artificial intelligence, Moula can process loan applications and make responsible lending decisions within minutes, and businessness can access the working capital they need almost immediately.
 
-Awards?
+Established in 2013, Moula is an Australian FinTech that provides working capital to small and medium business to help grow their business. By integrating accounting data with machine learning and artificial intelligence, Moula can process loan applications and make responsible lending decisions within minutes. Successful loan applications can result in business loans of up to $500,000 being made available in 24-48 hours.
 
+### Memberships and Affiliations ###
+
+Member of FinTech Australia, an organisation dedicated to making Australia one of the world's leading markets for FinTech innovation, adoption and investment.
+
+Member of the Australian Finance Industry Association, the leading advocate for Australia's finance sector. Moula was one of the six original signatories to AFIA's Code of Lending Practice.
 
 <div class="video-fallback">
   See the video: <a href="https://www.youtube.com/watch?v=MqL6BMOySIQ">Video title</a>.
@@ -39,8 +50,27 @@ Awards?
   <iframe src="https://www.youtube.com/embed/MqL6BMOySIQ" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
+### Customer Stories ###
 
-## Who are the founders of the company ##
+<div class="video-fallback">
+  See the video: <a href="https://www.youtube.com/watch?v=MqL6BMOySIQ">Video title</a>.
+</div>
+<figure class="video-container">
+  <iframe src="https://www.youtube.com/embed/MqL6BMOySIQ" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+More stories - 
+
+* Story 1 
+* Story 2
+* Story 3 
+* Story 4
+
+## Founders ##
+
+> Who are the founders of the company?
+
+> Team members
 
 ### Andrew Watt ###
 
@@ -60,14 +90,17 @@ Piers is credited for the development of Moula’s proprietary platform that sim
 
 <img align="left" src="images/Aris-Allegos.png">
 
+Aris co-founded Moula to provide Australian SMEs with a better way to access finance. Growing up around a family business, he experienced first-hand the challenges faced by SMEs.
+
 Aris is a co-fouder with over 15 years’ experience working in banking in London and Hong Kong, including roles with Credit Suisse and Nomura.
 
 He holds an MBA from London Business School, and a Bachelor of Commerce and Bachelor of Law from Monash University.
 
-He holds an MBA from London Business School, and a Bachelor of Commerce and Bachelor of Law from Monash University.
+## Funding ##
 
-
-## How is the company funded? How much funding have they received? ##
+> How is the company funded? 
+> 
+> How much funding have they received? 
 
 ### Crunchbase ###
 
