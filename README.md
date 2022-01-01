@@ -36,7 +36,9 @@
 
 Established in 2013, Moula is an Australian FinTech that provides working capital to small and medium business to help grow their business. By integrating accounting data with machine learning and artificial intelligence, Moula can process loan applications and make responsible lending decisions within minutes. Successful loan applications can result in business loans of up to $500,000 being made available in 24-48 hours.
 
-<img align="right" src="images/AFIA-Membership.png"> Moula is one of the six original signatories to Australian Finance Industry Association Code of Lending Practice. The AFIA Code has been developed with support from the Australian Small Business and Family Enterprise Ombudsman, theBankDoctor.org and FinTech Australia. The code establishes a new level of industry best practice in the small business finance segment as FinTech lenders play an increasingly important role in the Australian economy by providing access to credit for small and medium businesses. 
+<img align="right" src="images/AFIA-Membership.png"> Moula is one of the six original signatories to Australian Finance Industry Association Code of Lending Practice. The AFIA Code has been developed with support from the Australian Small Business and Family Enterprise Ombudsman, theBankDoctor.org and FinTech Australia. 
+
+The Code establishes a new level of industry best practice in the small business finance segment as FinTech lenders play an increasingly important role in the Australian economy by providing access to credit for small and medium businesses. 
 
 <br/>
 
@@ -161,7 +163,13 @@ Green says the actual process of applying for a Moula business loan takes 7-10 m
 
 ### What solution does this company offer that their competitors do not or cannot offer? ###
 
-SmartBox is the new way to compare business loans. It stands for: Straightforward Metrics Around Rate and Total cost and shows key metrics so you can compare the cost of capital. Because when it comes to business loans, it pays to compare.
+AFIA and Australia’s leading online small business lenders have come together to release a Code of best practice lending principles. The AFIA Code has been developed with support from the Australian Small Business and Family Enterprise Ombudsman, theBankDoctor.org and FinTech Australia.
+
+The AFIA Members having a Code-compliant online small business loan product are: Capify, GetCapital, Lumi, Moula, OnDeck, Prospa and Zip Business.
+
+Launched by AFIA on 29 June 2018, the customer-centric Code supports small business borrowers by giving them a tool (the SMART Box™) to easily compare different online lenders’ small business loan product pricing using several metrics standardised in calculation and presentation and providing a clear and concise loan summary sheet before a loan is accepted so they can see the key features of a product.
+
+The level of pricing transparency and disclosure provided by the internationally recognised SMART Box™ tool establishes a new level of industry best practice in the small business finance segment. This proactive step was taken by the AFIA online lenders as they play an increasingly important role in the Australian economy by providing much-needed access to credit for small businesses.
 
 https://user-images.githubusercontent.com/95597283/147745323-1ac3c156-4987-463d-a8f9-514c32aaf64d.mp4
 
