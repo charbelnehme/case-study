@@ -89,6 +89,10 @@ Aris is a co-fouder with over 15 years’ experience working in banking in Londo
 > 
 > How much funding have they received? 
 
+<p align="center">
+  <img src="https://github.com/charbelnehme/Case-Study/blob/2669d7af4473bf6f77a375813a775c6604d9615b/images/money.gif" alt="How is Moula funded?"/>
+</p>
+
 According to [Crunchbase](https://www.crunchbase.com/organization/moula "Crunchbase"), Moula has raised a total of $50.9M in funding over 3 rounds from the following investors - 
 * [Acorn Capital](https://www.acorncapital.com.au/ "Acorn Capital")
 * [Liberty Financial](https://www.liberty.com.au/ "Liberty Financial")
