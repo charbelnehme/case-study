@@ -8,6 +8,7 @@
 - [Table of Contents](#table-of-contents)
   - [Overview and Origin](#overview-and-origin)
     - [Introduction](#introduction)
+  - [Who are the founders?](#who-are-the-founders)
     - [Andrew Watt](#andrew-watt)
     - [Piers Moller](#piers-moller)
     - [Aris Allegos](#aris-allegos)
@@ -36,9 +37,7 @@
 
 Established in 2013, Moula is an Australian FinTech that provides working capital to small and medium business to help grow their business. By integrating accounting data with machine learning and artificial intelligence, Moula can process loan applications and make responsible lending decisions within minutes. Successful loan applications can result in business loans of up to $500,000 being made available in 24-48 hours.
 
-<img align="right" src="images/AFIA-Membership.png"> Moula is one of the six original signatories to Australian Finance Industry Association Code of Lending Practice. The AFIA Code has been developed with support from the Australian Small Business and Family Enterprise Ombudsman, theBankDoctor.org and FinTech Australia. 
-
-The Code establishes a new level of industry best practice in the small business finance segment as FinTech lenders play an increasingly important role in the Australian economy by providing access to credit for small and medium businesses. 
+<img align="right" src="images/AFIA-Membership.png"> Moula is one of the six original signatories to Australian Finance Industry Association Code of Lending Practice. The AFIA Code has been developed with support from the Australian Small Business and Family Enterprise Ombudsman, theBankDoctor.org and FinTech Australia. The Code establishes a new level of industry best practice in the small business finance segment as FinTech lenders play an increasingly important role in the Australian economy by providing access to credit for small and medium businesses. 
 
 <br/>
 
@@ -49,6 +48,8 @@ The Code establishes a new level of industry best practice in the small business
     <b><a href="#top">↥ back to top</a></b>
 </div>
 <br/>
+
+### Who are the founders? ###
 
 #### Andrew Watt ####
 
