@@ -8,17 +8,17 @@
 - [Table of Contents](#table-of-contents)
   - [Overview and Origin](#overview-and-origin)
     - [Introduction](#introduction)
-  - [Who are the founders?](#who-are-the-founders)
+    - [Who are the founders?](#who-are-the-founders)
     - [Andrew Watt](#andrew-watt)
     - [Piers Moller](#piers-moller)
     - [Aris Allegos](#aris-allegos)
-- [Funding](#funding)
-- [Business Activities](#business-activities)
-  - [What specific financial activities is the company or project trying to solve?](#what-specific-financial-activities-is-the-company-or-project-trying-to-solve)
-  - [Who is the companies intended customer? Is there any information about the market size of this set of customers?](#who-is-the-companies-intended-customer-is-there-any-information-about-the-market-size-of-this-set-of-customers)
-  - [What solution does this company offer that their competitors do not or cannot offer?](#what-solution-does-this-company-offer-that-their-competitors-do-not-or-cannot-offer)
-  - [Which technologies are they currently using, and how are they implementing them?](#which-technologies-are-they-currently-using-and-how-are-they-implementing-them)
-- [Landscape](#landscape)
+  - [Funding](#funding)
+  - [Business Activities](#business-activities)
+    - [What specific financial activities is the company or project trying to solve?](#what-specific-financial-activities-is-the-company-or-project-trying-to-solve)
+    - [Who is the companies intended customer? Is there any information about the market size of this set of customers? ####](#who-is-the-companies-intended-customer-is-there-any-information-about-the-market-size-of-this-set-of-customers-)
+    - [What solution does this company offer that their competitors do not or cannot offer?](#what-solution-does-this-company-offer-that-their-competitors-do-not-or-cannot-offer)
+    - [Which technologies are they currently using, and how are they implementing them?](#which-technologies-are-they-currently-using-and-how-are-they-implementing-them)
+  - [Landscape](#landscape)
 - [Recommendations](#recommendations)
   - [If you were to advise the company, what products or services would you suggest they offer?](#if-you-were-to-advise-the-company-what-products-or-services-would-you-suggest-they-offer)
   - [Why do you think that offering this product or service will benefit the company?](#why-do-you-think-that-offering-this-product-or-service-will-benefit-the-company)
@@ -49,7 +49,7 @@ Established in 2013, Moula is an Australian FinTech that provides working capita
 </div>
 <br/>
 
-### Who are the founders? ###
+#### Who are the founders? ####
 
 #### Andrew Watt ####
 
@@ -83,7 +83,7 @@ Aris is a co-fouder with over 15 years’ experience working in banking in Londo
 </div>
 <br/>
 
-## Funding ##
+### Funding ###
 
 > How is the company funded? 
 > 
@@ -112,7 +112,7 @@ Date | Funding Round | Money Raised
 </div>
 <br/>
 
-## Business Activities ##
+### Business Activities ###
 
 > What specific financial activities is the company or project trying to solve? 
 >
@@ -120,7 +120,7 @@ Date | Funding Round | Money Raised
 >
 > What solution does this company offer that their competitors do not or cannot offer? 
 
-### What specific financial activities is the company or project trying to solve? ###
+#### What specific financial activities is the company or project trying to solve? ####
 
 Justin Green is the Chief Product and Strategy Officer for Moula, and explains that for many businesses traditional banks simply don’t work.
 
@@ -136,7 +136,7 @@ Moula struck partnerships with the likes of cloud accounting business Xero that 
 </div>
 <br/>
 
-### Who is the companies intended customer? Is there any information about the market size of this set of customers? 
+#### Who is the companies intended customer? Is there any information about the market size of this set of customers? #### 
 
 Australia is home to around 2.3 million businesses. Most of them class as small and medium – and between them they employ around 7 out of 10 workers, and contribute almost $6 out of every $10 of the nation’s GDP.
 
@@ -162,7 +162,7 @@ Green says the actual process of applying for a Moula business loan takes 7-10 m
 </div>
 <br/>
 
-### What solution does this company offer that their competitors do not or cannot offer? ###
+#### What solution does this company offer that their competitors do not or cannot offer? ####
 
 AFIA and Australia’s leading online small business lenders have come together to release a Code of best practice lending principles. The AFIA Code has been developed with support from the Australian Small Business and Family Enterprise Ombudsman, theBankDoctor.org and FinTech Australia.
 
@@ -180,7 +180,7 @@ https://user-images.githubusercontent.com/95597283/147745323-1ac3c156-4987-463d-
 </div>
 <br/>
 
-### Which technologies are they currently using, and how are they implementing them? ###
+#### Which technologies are they currently using, and how are they implementing them? ####
 
 Moula uses data, AI and machine learning to assess business loan applications made online. Successful applications can result in business loans of up to $500,000 being made available in 24-48 hours. 
 
@@ -207,7 +207,7 @@ It also has documents and files stored in private storage accounts accessible vi
 </div>
 <br/>
 
-## Landscape 
+### Landscape ###
 
 > What domain of the financial industry is the company in?
 > 
