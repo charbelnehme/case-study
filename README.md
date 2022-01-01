@@ -15,7 +15,7 @@
   - [Funding](#funding)
   - [Business Activities](#business-activities)
     - [What specific financial activities is the company or project trying to solve?](#what-specific-financial-activities-is-the-company-or-project-trying-to-solve)
-    - [Who is the companies intended customer? Is there any information about the market size of this set of customers? ####](#who-is-the-companies-intended-customer-is-there-any-information-about-the-market-size-of-this-set-of-customers-)
+    - [Who is the companies intended customer? Is there any information about the market size of this set of customers?](#who-is-the-companies-intended-customer-is-there-any-information-about-the-market-size-of-this-set-of-customers)
     - [What solution does this company offer that their competitors do not or cannot offer?](#what-solution-does-this-company-offer-that-their-competitors-do-not-or-cannot-offer)
     - [Which technologies are they currently using, and how are they implementing them?](#which-technologies-are-they-currently-using-and-how-are-they-implementing-them)
   - [Landscape](#landscape)
@@ -35,11 +35,11 @@
 
 #### Introduction ####
 
-Established in 2013, Moula is an Australian FinTech that provides working capital to small and medium business to help grow their business. By integrating accounting data with machine learning and artificial intelligence, Moula can process loan applications and make responsible lending decisions within minutes. Successful loan applications can result in business loans of up to $500,000 being made available in 24-48 hours.
+Established in 2013, [Moula](https://moula.com.au "Moula") is an Australian FinTech that provides working capital to small and medium business to help grow their business. By integrating accounting data with machine learning and artificial intelligence, Moula can process loan applications and make responsible lending decisions within minutes. Successful loan applications can result in business loans of up to $500,000 being made available in 24-48 hours.
 
-<img align="right" src="images/AFIA-Membership.png"> Moula is one of the six original signatories to Australian Finance Industry Association Code of Lending Practice. 
+<img align="right" src="images/AFIA-Membership.png"> Moula is one of the six original signatories to Australian Finance Industry Association Code of Lending Practice.
 
-The AFIA Code has been developed with support from the Australian Small Business and Family Enterprise Ombudsman, theBankDoctor.org and FinTech Australia. The Code establishes a new level of industry best practice in the small business finance segment as FinTech lenders play an increasingly important role in the Australian economy by providing access to credit for small and medium businesses. 
+The [AFIA Code](https://afia.asn.au/AFIA-Online-Small-Business-Lenders-Code-of-Lending-Practice "AFIA Code") has been developed with support from the Australian Small Business and Family Enterprise Ombudsman, theBankDoctor.org and FinTech Australia. The Code establishes a new level of industry best practice in the small business finance segment as FinTech lenders play an increasingly important role in the Australian economy by providing access to credit for small and medium businesses. 
 
 <br/>
 <div align="right">
@@ -140,7 +140,7 @@ Moula struck partnerships with the likes of cloud accounting business Xero that 
 </div>
 <br/>
 
-#### Who is the companies intended customer? Is there any information about the market size of this set of customers? #### 
+#### Who is the companies intended customer? Is there any information about the market size of this set of customers? 
 
 Australia is home to around 2.3 million businesses. Most of them class as small and medium – and between them they employ around 7 out of 10 workers, and contribute almost $6 out of every $10 of the nation’s GDP.
 
@@ -168,9 +168,16 @@ Green says the actual process of applying for a Moula business loan takes 7-10 m
 
 #### What solution does this company offer that their competitors do not or cannot offer? ####
 
-AFIA and Australia’s leading online small business lenders have come together to release a Code of best practice lending principles. The AFIA Code has been developed with support from the Australian Small Business and Family Enterprise Ombudsman, theBankDoctor.org and FinTech Australia.
+AFIA and Australia’s leading online small business lenders have come together to release a Code of best practice lending principles. The [AFIA Code](https://afia.asn.au/AFIA-Online-Small-Business-Lenders-Code-of-Lending-Practice "AFIA Code") has been developed with support from the Australian Small Business and Family Enterprise Ombudsman, theBankDoctor.org and FinTech Australia.
 
-The AFIA Members having a Code-compliant online small business loan product are: Capify, GetCapital, Lumi, Moula, OnDeck, Prospa and Zip Business.
+The AFIA Members having a Code-compliant online small business loan product are: 
+* [Moula](https://moula.com.au "Moula")
+* [Capify](https://capify.com.au "Capify")
+* [Shift](https://shift.com./au "Shift")*(formerly known as 'Get Capital') *
+* [Lumi](https://lumi.com./au "Lumi") 
+* [OnDeck](https://ondeck.com.au "OnDeck")
+* [Prospa](https://prospa.com.au "Prospa"), and 
+* [Zip Business](https://zip.co "Zip Business")  
 
 Launched by AFIA on 29 June 2018, the customer-centric Code supports small business borrowers by giving them a tool (the SMART Box™) to easily compare different online lenders’ small business loan product pricing using several metrics standardised in calculation and presentation and providing a clear and concise loan summary sheet before a loan is accepted so they can see the key features of a product.
 
@@ -237,11 +244,11 @@ The base year for analysis is 2015 and the forecast period is 2016 to 2020. Reve
 
 Melbourne is home to more than 330 fintech start-ups, and by the end of 2020, there were five homegrown fintech unicorns headquartered in Melbourne, collectively valued at over US$30 billion.
 
-> Airwallex (cross border payments - founded 2015, est. valuation US$1.2 billion)
-> Afterpay (buy now pay later - founded 2014, market cap. US$31.8 billion)
-> Judo Capital (challenger bank - founded 2016, est. valuation US$0.925 billion)
-> MYOB (business online accounting software est. valuation US$1.3 billion)
-> PEXA (digital property settlement - founded 2015 est. valuation US$1 billion)
+> [Airwallex](https://airwallex.com/au "Airwallex") (cross border payments - founded 2015, est. valuation US$1.2 billion)
+> [Afterpay](https://afterpay.com "Afterpay") (buy now pay later - founded 2014, market cap. US$31.8 billion)
+> [Judo Capital](https://www.judo.bank "Judo Capital") (challenger bank - founded 2016, est. valuation US$0.925 billion)
+> [MYOB](https://myob.com/au "MYOB") (business online accounting software est. valuation US$1.3 billion)
+> [PEXA](https://www.pexa.com.au "PEXA") (digital property settlement - founded 2015 est. valuation US$1 billion)
 
 Airwallex was awarded Fintech Organisation of the Year award and AfterPay received the Global Market Presence award at the 2020 Finnie Awards, the national fintech awards run by Fintech Australia that is sponsored by the Victorian Government.
 
