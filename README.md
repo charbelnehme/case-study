@@ -8,7 +8,7 @@
 - [Table of Contents](#table-of-contents)
   - [Overview and Origin](#overview-and-origin)
     - [Introduction](#introduction)
-  - [Who are the founders?](#who-are-the-founders)
+  - [Meet the Founders](#meet-the-founders)
     - [Andrew Watt](#andrew-watt)
     - [Piers Moller](#piers-moller)
     - [Aris Allegos](#aris-allegos)
@@ -51,7 +51,9 @@ The Code establishes a new level of industry best practice in the small business
 </div>
 <br/>
 
-### Who are the founders? ###
+### Meet the Founders ###
+
+> Who are the founders?
 
 #### Andrew Watt ####
 
