@@ -28,7 +28,7 @@
   - [What technologies would this product or service utilise? Why are these technologies appropriate for your solution?](#what-technologies-would-this-product-or-service-utilise-why-are-these-technologies-appropriate-for-your-solution)
 
 
-## Overview and Origin 
+### Overview and Origin 
 
 > Name of company
 >  
@@ -36,7 +36,7 @@
 > 
 > How did the idea for the company come about? 
 
-### Introduction ###
+#### Introduction ####
 
 Established in 2013, Moula is an Australian FinTech that provides working capital to small and medium business to help grow their business. By integrating accounting data with machine learning and artificial intelligence, Moula can process loan applications and make responsible lending decisions within minutes. Successful loan applications can result in business loans of up to $500,000 being made available in 24-48 hours.
 
@@ -48,13 +48,13 @@ Established in 2013, Moula is an Australian FinTech that provides working capita
 </div>
 <br/>
 
-### Andrew Watt ###
+#### Andrew Watt ####
 
 <img align="left" src="images/Andrew-Watt.png"> Andrew spent over 16 years with a number of financial institutions in London – including Deutsche Bank, Standard Chartered, Nomura and Royal Bank of Scotland – spanning risk management, credit modelling and structuring. As COO, he is responsible for managing the lending process from the point of underwriting to execution and settlement, and post-settlement support.
 
 Andrew has a Bachelor of Commerce from the University of Melbourne and is a Chartered Accountant of Australia.
 
-### Piers Moller ###
+#### Piers Moller ####
 
 <img align="left" src="images/Piers-Moller.png"> 
 
@@ -62,7 +62,7 @@ Piers is a co-founder and CTO of Moula. He has been working in information techn
 
 Piers is credited for the development of Moula’s proprietary platform that simplifies the business lending process. He has a Bachelor of Science in Astronomy from University College London and a Masters in Science from Middlesex University London.
 
-### Aris Allegos ###
+#### Aris Allegos ####
 
 <img align="left" src="images/Aris-Allegos.png">
 
