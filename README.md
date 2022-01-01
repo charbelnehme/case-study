@@ -6,11 +6,11 @@
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
-- [Overview and Origin](#overview-and-origin)
-  - [Introduction](#introduction)
-  - [Andrew Watt](#andrew-watt)
-  - [Piers Moller](#piers-moller)
-  - [Aris Allegos](#aris-allegos)
+  - [Overview and Origin](#overview-and-origin)
+    - [Introduction](#introduction)
+    - [Andrew Watt](#andrew-watt)
+    - [Piers Moller](#piers-moller)
+    - [Aris Allegos](#aris-allegos)
 - [Funding](#funding)
 - [Business Activities](#business-activities)
   - [What specific financial activities is the company or project trying to solve?](#what-specific-financial-activities-is-the-company-or-project-trying-to-solve)
@@ -40,7 +40,9 @@
 
 Established in 2013, Moula is an Australian FinTech that provides working capital to small and medium business to help grow their business. By integrating accounting data with machine learning and artificial intelligence, Moula can process loan applications and make responsible lending decisions within minutes. Successful loan applications can result in business loans of up to $500,000 being made available in 24-48 hours.
 
-<img align="right" src="images/AFIA-Membership.png"> Moula is one of the six original signatories to Australian Finance Industry Association Code of Lending Practice. 
+Moula is one of the six original signatories to Australian Finance Industry Association Code of Lending Practice. The AFIA Code has been developed with support from the Australian Small Business and Family Enterprise Ombudsman, theBankDoctor.org and FinTech Australia. The code establishes a new level of industry best practice in the small business finance segment as FinTech lenders play an increasingly important role in the Australian economy by providing access to credit for small and medium businesses. 
+
+In addition, Moula is a member of FinTech Australia, an organisation dedicated to making Australia one of the world's leading markets for FinTech innovation, adoption and investment. 
 
 <br/>
 <div align="right">
@@ -54,6 +56,8 @@ Established in 2013, Moula is an Australian FinTech that provides working capita
 
 Andrew has a Bachelor of Commerce from the University of Melbourne and is a Chartered Accountant of Australia.
 
+<br/>
+
 #### Piers Moller ####
 
 <img align="left" src="images/Piers-Moller.png"> 
@@ -61,6 +65,8 @@ Andrew has a Bachelor of Commerce from the University of Melbourne and is a Char
 Piers is a co-founder and CTO of Moula. He has been working in information technology since 1997 with financial institutions including Royal Bank of Scotland, BNP Paribas , Barclays Capital. 
 
 Piers is credited for the development of Moula’s proprietary platform that simplifies the business lending process. He has a Bachelor of Science in Astronomy from University College London and a Masters in Science from Middlesex University London.
+
+<br/>
 
 #### Aris Allegos ####
 
