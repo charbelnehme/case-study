@@ -244,11 +244,11 @@ The base year for analysis is 2015 and the forecast period is 2016 to 2020. Reve
 
 Melbourne is home to more than 330 fintech start-ups, and by the end of 2020, there were five homegrown fintech unicorns headquartered in Melbourne, collectively valued at over US$30 billion.
 
-> [Airwallex](https://airwallex.com/au "Airwallex") (cross border payments - founded 2015, est. valuation US$1.2 billion)
-> [Afterpay](https://afterpay.com "Afterpay") (buy now pay later - founded 2014, market cap. US$31.8 billion)
-> [Judo Capital](https://www.judo.bank "Judo Capital") (challenger bank - founded 2016, est. valuation US$0.925 billion)
-> [MYOB](https://myob.com/au "MYOB") (business online accounting software est. valuation US$1.3 billion)
-> [PEXA](https://www.pexa.com.au "PEXA") (digital property settlement - founded 2015 est. valuation US$1 billion)
+* [Airwallex](https://airwallex.com/au "Airwallex") (cross border payments - founded 2015, est. valuation US$1.2 billion)
+* [Afterpay](https://afterpay.com "Afterpay") (buy now pay later - founded 2014, market cap. US$31.8 billion)
+* [Judo Capital](https://www.judo.bank "Judo Capital") (challenger bank - founded 2016, est. valuation US$0.925 billion)
+* [MYOB](https://myob.com/au "MYOB") (business online accounting software est. valuation US$1.3 billion)
+* [PEXA](https://www.pexa.com.au "PEXA") (digital property settlement - founded 2015 est. valuation US$1 billion)
 
 Airwallex was awarded Fintech Organisation of the Year award and AfterPay received the Global Market Presence award at the 2020 Finnie Awards, the national fintech awards run by Fintech Australia that is sponsored by the Victorian Government.
 
