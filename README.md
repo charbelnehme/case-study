@@ -72,7 +72,7 @@ Aris is a co-fouder with over 15 years’ experience working in banking in Londo
 
 <br/>
 <div align="right">
-    <b><a href="#----">↥ back to top</a></b>
+    <b><a href="#top">↥ back to top</a></b>
 </div>
 <br/>
 
@@ -101,7 +101,7 @@ Date | Funding Round | Money Raised
 
 <br/>
 <div align="right">
-    <b><a href="#----">↥ back to top</a></b>
+    <b><a href="#top">↥ back to top</a></b>
 </div>
 <br/>
 
@@ -125,7 +125,7 @@ Moula struck partnerships with the likes of cloud accounting business Xero that 
 
 <br/>
 <div align="right">
-    <b><a href="#----">↥ back to top</a></b>
+    <b><a href="#top">↥ back to top</a></b>
 </div>
 <br/>
 
@@ -151,7 +151,7 @@ Green says the actual process of applying for a Moula business loan takes 7-10 m
 
 <br/>
 <div align="right">
-    <b><a href="#----">↥ back to top</a></b>
+    <b><a href="#top">↥ back to top</a></b>
 </div>
 <br/>
 
@@ -163,7 +163,7 @@ https://user-images.githubusercontent.com/95597283/147745323-1ac3c156-4987-463d-
 
 <br/>
 <div align="right">
-    <b><a href="#----">↥ back to top</a></b>
+    <b><a href="#top">↥ back to top</a></b>
 </div>
 <br/>
 
@@ -190,7 +190,7 @@ It also has documents and files stored in private storage accounts accessible vi
 
 <br/>
 <div align="right">
-    <b><a href="#----">↥ back to top</a></b>
+    <b><a href="#top">↥ back to top</a></b>
 </div>
 <br/>
 
@@ -237,7 +237,7 @@ Prospa has raised a total of $96.7M in funding over 5 rounds. Their latest fundi
 
 <br/>
 <div align="right">
-    <b><a href="#----">↥ back to top</a></b>
+    <b><a href="#top">↥ back to top</a></b>
 </div>
 <br/>
 
@@ -263,7 +263,7 @@ Insert text
 
 <br/>
 <div align="right">
-    <b><a href="#----">↥ back to top</a></b>
+    <b><a href="#top">↥ back to top</a></b>
 </div>
 <br/>
 
@@ -283,7 +283,7 @@ A combination of Moula’s Azure Machine Learning algorithm and risk-based lendi
 
 <br/>
 <div align="right">
-    <b><a href="#----">↥ back to top</a></b>
+    <b><a href="#top">↥ back to top</a></b>
 </div>
 <br/>
 
@@ -295,7 +295,7 @@ A combination of Moula’s Azure Machine Learning algorithm and risk-based lendi
 
 <br/>
 <div align="right">
-    <b><a href="#----">↥ back to top</a></b>
+    <b><a href="#top">↥ back to top</a></b>
 </div>
 <br/>
 
@@ -305,7 +305,7 @@ Consumer lending in the FinTech space has proven successful by MoneyMe, a digita
 
 <br/>
 <div align="right">
-    <b><a href="#----">↥ back to top</a></b>
+    <b><a href="#top">↥ back to top</a></b>
 </div>
 <br/>
 
@@ -325,6 +325,6 @@ The technology platform should consume data from multiple sources (including thi
 
 <br/>
 <div align="right">
-    <b><a href="#----">↥ back to top</a></b>
+    <b><a href="#top">↥ back to top</a></b>
 </div>
 <br/>
