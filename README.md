@@ -18,10 +18,6 @@
   - [What solution does this company offer that their competitors do not or cannot offer?](#what-solution-does-this-company-offer-that-their-competitors-do-not-or-cannot-offer)
   - [Which technologies are they currently using, and how are they implementing them?](#which-technologies-are-they-currently-using-and-how-are-they-implementing-them)
 - [Landscape](#landscape)
-- [Results](#results)
-  - [What has been the business impact of this company so far?](#what-has-been-the-business-impact-of-this-company-so-far)
-  - [What are some of the core metrics that companies in this domain use to measure success?](#what-are-some-of-the-core-metrics-that-companies-in-this-domain-use-to-measure-success)
-  - [How is the company performing relative to competitors in the same domain? ###](#how-is-the-company-performing-relative-to-competitors-in-the-same-domain-)
 - [Recommendations](#recommendations)
   - [If you were to advise the company, what products or services would you suggest they offer?](#if-you-were-to-advise-the-company-what-products-or-services-would-you-suggest-they-offer)
   - [Why do you think that offering this product or service will benefit the company?](#why-do-you-think-that-offering-this-product-or-service-will-benefit-the-company)
@@ -40,9 +36,11 @@
 
 Established in 2013, Moula is an Australian FinTech that provides working capital to small and medium business to help grow their business. By integrating accounting data with machine learning and artificial intelligence, Moula can process loan applications and make responsible lending decisions within minutes. Successful loan applications can result in business loans of up to $500,000 being made available in 24-48 hours.
 
-Moula is one of the six original signatories to Australian Finance Industry Association Code of Lending Practice. The AFIA Code has been developed with support from the Australian Small Business and Family Enterprise Ombudsman, theBankDoctor.org and FinTech Australia. The code establishes a new level of industry best practice in the small business finance segment as FinTech lenders play an increasingly important role in the Australian economy by providing access to credit for small and medium businesses. 
+<img align="right" src="images/AFIA-Membership.png"> Moula is one of the six original signatories to Australian Finance Industry Association Code of Lending Practice. The AFIA Code has been developed with support from the Australian Small Business and Family Enterprise Ombudsman, theBankDoctor.org and FinTech Australia. The code establishes a new level of industry best practice in the small business finance segment as FinTech lenders play an increasingly important role in the Australian economy by providing access to credit for small and medium businesses. 
 
-In addition, Moula is a member of FinTech Australia, an organisation dedicated to making Australia one of the world's leading markets for FinTech innovation, adoption and investment. 
+<br/>
+
+<img align="right" src="images/AFIA-Membership.png"> In addition, Moula is a member of FinTech Australia, an organisation dedicated to making Australia one of the world's leading markets for FinTech innovation, adoption and investment. 
 
 <br/>
 <div align="right">
@@ -240,32 +238,6 @@ Prospa provides unsecured business loans to small businesses in Australia and is
 
 Prospa - $96.7M funding and an additional $109.6M raised at IPO. Company valued at $609.9M (11 June 2019).
 Prospa has raised a total of $96.7M in funding over 5 rounds. Their latest funding was raised on Jan 1, 2018 from a Undisclosed round.Prospa is registered under the ticker ASX:PGL. Their stock opened with A$3.78 in its Jun 11, 2019 IPO.Prospa is funded by 7 investors. Poalim Equity and Partners for Growth are the most recent investors.
-
-<br/>
-<div align="right">
-    <b><a href="#top">↥ back to top</a></b>
-</div>
-<br/>
-
-## Results ##
-
-> What has been the business impact of this company so far? 
-> 
-> What are some of the core metrics that companies in this domain use to measure success? 
-> 
-> How is the company performing relative to competitors in the same domain? 
-
-### What has been the business impact of this company so far? ###
-
-Insert text 
-
-### What are some of the core metrics that companies in this domain use to measure success? ###
-
-Insert text 
-
-### How is the company performing relative to competitors in the same domain? ### 
-
-Insert text 
 
 <br/>
 <div align="right">
