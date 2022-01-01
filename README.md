@@ -41,9 +41,7 @@ Successful loan applications can result in business loans of up to $500,000 bein
 
 <img align="right" src="images/AFIA-Membership.png"> Moula is one of the six original signatories to Australian Finance Industry Association Code of Lending Practice. 
 
-The AFIA Code has been developed with support from the Australian Small Business and Family Enterprise Ombudsman, theBankDoctor.org and FinTech Australia. 
-
-The Code establishes a new level of industry best practice in the small business finance segment as FinTech lenders play an increasingly important role in the Australian economy by providing access to credit for small and medium businesses. 
+The AFIA Code has been developed with support from the Australian Small Business and Family Enterprise Ombudsman, theBankDoctor.org and FinTech Australia. The Code establishes a new level of industry best practice in the small business finance segment as FinTech lenders play an increasingly important role in the Australian economy by providing access to credit for small and medium businesses. 
 
 <br/>
 <div align="right">
