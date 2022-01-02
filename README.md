@@ -18,6 +18,8 @@
     - [Who is the companies intended customer? Is there any information about the market size of this set of customers?](#who-is-the-companies-intended-customer-is-there-any-information-about-the-market-size-of-this-set-of-customers)
     - [What solution does this company offer that their competitors do not or cannot offer?](#what-solution-does-this-company-offer-that-their-competitors-do-not-or-cannot-offer)
     - [Which technologies are they currently using, and how are they implementing them?](#which-technologies-are-they-currently-using-and-how-are-they-implementing-them)
+      - [Artificial Intelligence and Machine Learning #####](#artificial-intelligence-and-machine-learning-)
+      - [Data Security](#data-security)
   - [Landscape](#landscape)
 - [Recommendations](#recommendations)
   - [If you were to advise the company, what products or services would you suggest they offer?](#if-you-were-to-advise-the-company-what-products-or-services-would-you-suggest-they-offer)
@@ -53,9 +55,7 @@ The [AFIA Code](https://afia.asn.au/AFIA-Online-Small-Business-Lenders-Code-of-L
 
 #### Andrew Watt ####
 
-<img align="left" src="images/Andrew-Watt.png"> Andrew spent over 16 years with a number of financial institutions in London – including Deutsche Bank, Standard Chartered, Nomura and Royal Bank of Scotland – spanning risk management, credit modelling and structuring. As COO, he is responsible for managing the lending process from the point of underwriting to execution and settlement, and post-settlement support.
-
-Andrew has a Bachelor of Commerce from the University of Melbourne and is a Chartered Accountant of Australia.
+<img align="left" src="images/Andrew-Watt.png"> Andrew spent over 16 years with a number of financial institutions in London – including Deutsche Bank, Standard Chartered, Nomura and Royal Bank of Scotland – spanning risk management, credit modelling and structuring. As COO, he is responsible for managing the lending process from the point of underwriting to execution and settlement, and post-settlement support. Andrew has a Bachelor of Commerce from the University of Melbourne and is a Chartered Accountant of Australia.
 
 <br/>
 
@@ -142,23 +142,19 @@ Moula struck partnerships with the likes of cloud accounting business Xero that 
 
 #### Who is the companies intended customer? Is there any information about the market size of this set of customers? 
 
-Australia is home to around 2.3 million businesses. Most of them class as small and medium – and between them they employ around 7 out of 10 workers, and contribute almost $6 out of every $10 of the nation’s GDP.
+Moula provides business loans to small and medium sized Australian businessnes. Australia is home to around 2.3 million businesses. Most of them class as small and medium and are the backbone of the Australian economy, creating around 7 million jobs, contributing to 57% of Australia's GDP and cementing our reputation as a nation of entrepreneurs.
 
-Small to medium businesses are the backbone of the Australian economy, creating around 7 million jobs, contributing to 57% of Australia's GDP and cementing our reputation as a nation of entrepreneurs.
+The small business sector is already powering Australia's economic recovery. In the three months to August 2021, $10 billion in new lending was made to small business, a 26% jump from $7.9 billion in the three months to August 2020.
 
-> “The small business sector is already powering Australia's economic recovery. In the three months to August 2021, $10 billion in new lending was made to small business, a 26% jump from $7.9 billion in the three months to August 2020.
+Justin Green is the Chief Product and Strategy Officer for Moula explains why traditional banks don’t work for many Australian businesses –
+
+> “If you don’t have the benefit of assets, like the family home to put up as collateral, then your ability to borrow money from the bank is pretty limited. So Moula’s thesis was very much ‘can we partner with small businesses?’, try and demystify this volatility that exists in small businesses, encourage this open-sharing of business data, as the critical asset to understand the nature of someone’s business.”
 
 https://business.nab.com.au/wp-content/uploads/2017/06/J002580_MTM-Whitepaper-IPSOS-FINAL_C1-2.pdf 
 
 https://www.smartcompany.com.au/finance/economy/smes-government-consumers-collective-effort-economic-recovery/
 
 https://www.ausbanking.org.au/inaugural-roundtable-paves-small-business-road-to-recovery/ 
-
-Justin Green is the Chief Product and Strategy Officer for Moula explains why traditional banks don’t work for many Australian businesses –
-
-> “If you don’t have the benefit of assets, like the family home to put up as collateral, then your ability to borrow money from the bank is pretty limited. So Moula’s thesis was very much ‘can we partner with small businesses?’, try and demystify this volatility that exists in small businesses, encourage this open-sharing of business data, as the critical asset to understand the nature of someone’s business.” – Justin Green
-
-Green says the actual process of applying for a Moula business loan takes 7-10 minutes. It involves completing a fairly light touch application form, and granting approval for Moula to access the applicant’s business data. That’s generally achieved through an API into a data source, such as Xero.
 
 <br/>
 <div align="right">
@@ -168,7 +164,7 @@ Green says the actual process of applying for a Moula business loan takes 7-10 m
 
 #### What solution does this company offer that their competitors do not or cannot offer? ####
 
-AFIA and Australia’s leading online small business lenders have come together to release a Code of best practice lending principles. The [AFIA Code](https://afia.asn.au/AFIA-Online-Small-Business-Lenders-Code-of-Lending-Practice "AFIA Code") has been developed with support from the Australian Small Business and Family Enterprise Ombudsman, theBankDoctor.org and FinTech Australia.
+AFIA and Australia’s leading online small business lenders (including Moula) have come together to release a Code of best practice lending principles. The [AFIA Code](https://afia.asn.au/AFIA-Online-Small-Business-Lenders-Code-of-Lending-Practice "AFIA Code") has been developed with support from the Australian Small Business and Family Enterprise Ombudsman, theBankDoctor.org and FinTech Australia.
 
 The AFIA Members having a Code-compliant online small business loan product are: 
 * [Moula](https://moula.com.au "Moula")
@@ -179,9 +175,9 @@ The AFIA Members having a Code-compliant online small business loan product are:
 * [Prospa](https://prospa.com.au "Prospa"), and 
 * [Zip Business](https://zip.co "Zip Business")  
 
-Launched by AFIA on 29 June 2018, the customer-centric Code supports small business borrowers by giving them a tool (the SMART Box™) to easily compare different online lenders’ small business loan product pricing using several metrics standardised in calculation and presentation and providing a clear and concise loan summary sheet before a loan is accepted so they can see the key features of a product.
+The customer-centric Code supports small business borrowers by giving them a tool (the SMART Box™) to easily compare different online lenders’ small business loan product pricing, using several metrics standardised in calculation and presentation and providing a clear and concise loan summary sheet before a loan is accepted so they can see the key features of a product.
 
-The level of pricing transparency and disclosure provided by the internationally recognised SMART Box™ tool establishes a new level of industry best practice in the small business finance segment. This proactive step was taken by the AFIA online lenders as they play an increasingly important role in the Australian economy by providing much-needed access to credit for small businesses.
+The level of pricing transparency and disclosure provided by the SMART Box™ tool establishes a new level of industry best practice in the small business finance segment. This proactive step was taken by the AFIA online lenders as they play an increasingly important role in the Australian economy by providing much-needed access to credit for small businesses.
 
 https://user-images.githubusercontent.com/95597283/147745323-1ac3c156-4987-463d-a8f9-514c32aaf64d.mp4>
 
@@ -190,28 +186,25 @@ https://user-images.githubusercontent.com/95597283/147745323-1ac3c156-4987-463d-
 </div>
 <br/>
 
-<img align="center" src="images/Smartbox_1.PNG">
+<img align="right" src="images/Smartbox_1.PNG">
 
 #### Which technologies are they currently using, and how are they implementing them? ####
 
-Moula uses data, AI and machine learning to assess business loan applications made online. Successful applications can result in business loans of up to $500,000 being made available in 24-48 hours. 
+##### Artificial Intelligence and Machine Learning ##### 
 
-Moula worked with Microsoft partner, BizData to plan and execute the transition. Together they established an Azure based data warehouse using Azure SQL DB, implemented Power BI to run business analytics, and leverage Azure AI and machine learning capabilities to assess data and analyse risk.
-Rachel Bondi, general manager, One Commercial Partner, Microsoft Australia, applauds the partnership between BizData and Moula, for the vision it brought to the market.
-
-> “Small business is the engine room of Australia’s economy. It’s where most people work, and without small business big business simply could not function. The vision of Moula in terms of liberating the value in small business data is impressive, and the partnership with BizData using Microsoft AI technology to bring that vision to life is a prime example of collaboration across our ecosystem to bring about not just business transformation, but sector transformation.”
+Moula uses data, AI and machine learning to assess business loan applications made online. The company has established an Azure based data warehouse using Azure SQL DB, implemented Power BI to run business analytics, and leverage Azure AI and machine learning capabilities to assess data and analyse credit risk.
 
 A machine learning decision model developed using Scikit-Learn machine learning algorithms that are accessed through Azure Machine Learning Services, then provide a prediction of the probability (or risk) of the SME being able to pay back its loan.
 
-Moula has been able to refine that prediction by using historical data from past applicants to train the model. “The machine learning models also provide useful context in the form of the relative importance of each of the pieces of information that it has based its decision on,” says Pesavento.
+Moula has been able to refine that prediction by using historical data from past applicants to train the model. The machine learning models also provide useful context in the form of the relative importance of each of the pieces of information that it has based its decision on.
 
-> “We use Azure Machine Learning Services to calibrate the risk engine models, which includes retraining them on updated historical data and assessing the performance of alternate models and associated hyperparameters.”
+[![Moula - AI](https://img.youtube.com/vi/43-mCw-styM/maxresdefault.jpg)](https://youtu.be/43-mCw-styM)
 
-[![Moula - Customer Story](https://img.youtube.com/vi/43-mCw-styM/maxresdefault.jpg)](https://youtu.be/43-mCw-styM)
+##### Data Security #####
 
-Well aware of the value of that data Moula deploys multiple layers of defence in order to ensure data is protected. As part of its security controls, Moula takes advantage of Azure security features such as Advanced Data Security and Dynamic Data Masking.
+Moula deploys multiple layers of defence in order to ensure customer data is protected, and takes advantage of Azure security features such as Advanced Data Security and Dynamic Data Masking.
 
-It also has documents and files stored in private storage accounts accessible via its own application and uses KeyVault to ensure there are no naked connection strings or access keys in any deployed applications. It also employs IP whitelisting and subnets to restrict access to some applications and VMs. Operating in a currently self-regulated part of the financial services market Moula nevertheless expects to be impacted by changing regulations affecting other institutions.
+It also has documents and files stored in private storage accounts accessible via its own application and uses KeyVault to ensure there are no naked connection strings or access keys in any deployed applications. The company employs IP whitelisting and subnets to restrict access to some applications and VMs. Operating in a currently self-regulated part of the financial services market, Moula nevertheless expects to be impacted by changing regulations affecting other institutions.
 
 <br/>
 <div align="right">
@@ -227,38 +220,30 @@ It also has documents and files stored in private storage accounts accessible vi
 > 
 > What are the other major companies in this domain?
 
-In 2019, the A$3.8 billion Australian fintech sector1 saw 252 per cent growth in fintech investment.  Frost and Sullivan estimated growth between 2015-20 to be 76.3 per cent per annum and with more than 40 per cent of consumers yet to become fintech adopters the market is predicted to grow further to $18 billion by 20301.
+The Australian Fintech Sector generated A$247.2 million in 2015. Sharp growth in the Fintech market in 2016 and 2017, followed by steady increases through to 2020, is likely spur growth.
 
-Australian FinTech revenue will grow at a CAGR of 76.3% and exceed A$4 billion by 2020, driven by reduced taxes on investments in startups, steady increase in mobile payments, and rise of Tech-savy digital natives. The Australian Fintech Sector generated A$247.2 million in 2015. Sharp growth in the Fintech market in 2016 and 2017, followed by steady increases through to 2020, is likely spur growth.
-
-Frost and Sullivan defines the Australian FinTech sector as comprising three market segments: digital payments, personal and business finance, financial infrastructure and data analysis. Each segment’s unique method of disrupting the financial services sector relies on its own digital technologies. This report focuses on the way these segments will grow by 2020 and the challenges that FinTech companies will face.
+In 2019, the A$3.8 billion Australian fintech sector1 saw 252 per cent growth in fintech investment.  
 
 Australian FinTech is in the development stage of the business cycle, and the FinTech start-up space has grown rapidly and is set to drive $10 billion of revenue away from existing financial institutions and ensure $3 billion worth of added revenue.
 
 Innovation hubs provide a strong foundation for start-ups to operate and reach positive cash flow. A$438 million of investment in Australian FinTech in 2015 was concentrated in Sydney.
 
-Some disruptors have been observed in the growing Australian FinTech market. New EFTPOS and online charging solutions will allow more merchants to be paid through credit cards but also drive down the cost of receiving payments. The replacement of financial advice teams with Robo-Advice teams will be hugely attractive to established financial institutions that want to cut labour costs. Blockchain will radically reduce costs by decentralising ledgers for financial settlements.
-
-Market revenue in this report only includes revenues of those companies that disrupt the existing financial sector. FinTech companies included in this report use technologies that fundamentally challenge existing financial institutions.
-
-The base year for analysis is 2015 and the forecast period is 2016 to 2020. Revenue is provided given in US dollars when pertaining to the global FinTech sector and in Australian Dollars when pertaining to the Australian FinTech sector.
+Some disruptors have been observed in the growing Australian FinTech market -
+* New EFTPOS and online charging solutions will allow more merchants to be paid through credit cards but also drive down the cost of receiving payments. 
+* The replacement of financial advice teams with Robo-Advice teams will be hugely attractive to established financial institutions that want to cut labour costs. 
+* Blockchain will radically reduce costs by decentralising ledgers for financial settlements.
 
 Melbourne is home to more than 330 fintech start-ups, and by the end of 2020, there were five homegrown fintech unicorns headquartered in Melbourne, collectively valued at over US$30 billion.
 
-* [Airwallex](https://airwallex.com/au "Airwallex") (cross border payments - founded 2015, est. valuation US$1.2 billion)
+* [Airwallex](https://airwallex.com/au "Airwallex") (cross border payments - founded 2015, est. valuation US$1.2 billion, awarded *FinTech Organisation of the Year 2020*)
 * [Afterpay](https://afterpay.com "Afterpay") (buy now pay later - founded 2014, market cap. US$31.8 billion)
 * [Judo Capital](https://www.judo.bank "Judo Capital") (challenger bank - founded 2016, est. valuation US$0.925 billion)
 * [MYOB](https://myob.com/au "MYOB") (business online accounting software est. valuation US$1.3 billion)
 * [PEXA](https://www.pexa.com.au "PEXA") (digital property settlement - founded 2015 est. valuation US$1 billion)
 
-Airwallex was awarded Fintech Organisation of the Year award and AfterPay received the Global Market Presence award at the 2020 Finnie Awards, the national fintech awards run by Fintech Australia that is sponsored by the Victorian Government.
+Behind these unicorns are also scaleups such as Moula ($160 million Series D in 2020), Prospa and Assembly Payments making their mark from Melbourne.
 
-Right on the tail of these unicorns are also scaleups such as Moula ($160 million Series D in 2020), Prospa and Assembly Payments making their mark from Melbourne.
-
-Prospa provides unsecured business loans to small businesses in Australia and is Australian owned and operated. Using a smart proprietary technology platform and a simple online application process, Prospa gives small business owners a fast and easy way to access finance, and has already helped thousands of Australian small businesses. In 2015 Prospa won the Deloitte Tech Fast 50 with 6071% growth over three years, making it the fastest growing technology company in Australia, and the third fastest in Asia. Prospa was a 2015 Telstra Business Awards finalist and rated 33rd globally as a leading innovator in KPMG's Fintech 100.
-
-Prospa - $96.7M funding and an additional $109.6M raised at IPO. Company valued at $609.9M (11 June 2019).
-Prospa has raised a total of $96.7M in funding over 5 rounds. Their latest funding was raised on Jan 1, 2018 from a Undisclosed round.Prospa is registered under the ticker ASX:PGL. Their stock opened with A$3.78 in its Jun 11, 2019 IPO.Prospa is funded by 7 investors. Poalim Equity and Partners for Growth are the most recent investors.
+Prospa provides unsecured business loans to small businesses. Similarly, the FinTech uses information technology to facilitate the business loan process. In 2015 Prospa won the Deloitte Tech Fast 50 with 6071% growth over three years, making it the fastest growing technology company in Australia, and the third fastest in Asia. Prospa was a 2015 Telstra Business Awards finalist and rated 33rd globally as a leading innovator in KPMG's Fintech 100. The company has received $96.7M funding, with an additional $109.6M raised at IPO. The FinTech's IPO valuation was $609.9M on 11 June 2019.  
 
 <br/>
 <div align="right">
@@ -276,27 +261,11 @@ Prospa has raised a total of $96.7M in funding over 5 rounds. Their latest fundi
 > 
 > Why are these technologies appropriate for your solution?
 
-Moula does not operate in the consumer lending sector in Australia, in which lenders provide finance solutions for a variety of personal funding requirements. A significant opportunity exists with these type of consumers who are underserved by the major banks and traditional lenders in Australia. 
-
-A combination of Moula’s Azure Machine Learning algorithm and risk-based lending principles to assess credit risk and streamline the credit approval process may translate to a frictionless credit product and positive customer experience. A key component of a Moula business loan is the online application process, which takes up to 10 minutes to complete, and the capability for funds to be disbursed or credit facilities to be available to the business customer shortly after approval.
-
-<br/>
-<div align="right">
-    <b><a href="#top">↥ back to top</a></b>
-</div>
-<br/>
-
 ### If you were to advise the company, what products or services would you suggest they offer? ###
 
-Moula does not operate in the consumer lending sector in Australia, in which lenders provide finance solutions for a variety of personal funding requirements. A significant opportunity exists with these types of consumers who are underserved by the major banks and traditional lenders in Australia. 
+Moula does not operate in the consumer lending sector in Australia, in which lenders provide finance solutions for a variety of personal funding requirements. A significant opportunity exists with these type of consumers who are underserved by the major banks and traditional lenders in Australia. 
 
-A combination of Moula’s Azure Machine Learning algorithm and risk-based lending principles to assess credit risk and streamline the credit approval process may translate to a frictionless credit product and positive customer experience. A key component of a Moula business loan is the online application process, which takes up to 10 minutes to complete, and the capability for funds to be disbursed or credit facilities to be available to the business customer shortly after approval.
-
-<img align="right" src="images/Moneyme_1.PNG">
-
-<img align="right" src="images/Moneyme_2.PNG">
-
-<img align="right" src="images/Moneyme_3.PNG">
+A key component of a Moula business loan is the online application process, which takes up to 10 minutes to complete, and the capability for funds to be disbursed or credit facilities to be available to the business customer shortly after approval. A combination of Moula’s Azure Machine Learning algorithm and risk-based lending principles to assess credit risk and streamline the credit approval process may translate to a frictionless credit product and positive customer experience. 
 
 <br/>
 <div align="right">
@@ -306,7 +275,13 @@ A combination of Moula’s Azure Machine Learning algorithm and risk-based lendi
 
 ### Why do you think that offering this product or service will benefit the company? ###
 
-Consumer lending in the FinTech space has proven successful by MoneyMe, a digital financial service company that offers fast and easy credit products to tech-savvy Australian consumers MoneyMe utilise a tech-driven platform, to provide consumers with a seamless online process done in minutes via their mobile phone. The company has raised A$388M and was ASX listed on 27 September 2021 with a valuation of $A211.8M.
+Demand for consumer lending in the FinTech space has been established MoneyMe, a digital financial service company that offers fast and easy credit products to tech-savvy Australian consumers MoneyMe utilise a tech-driven platform. Similar to Moula, MoneyMe offers consumers a simple online process that can be completed in minutes minutes using a mobile phone. The company has raised A$388M and was ASX listed on 27 September 2021 with a valuation of $A211.8M.
+
+<img align="right" src="images/Moneyme_1.PNG">
+
+<img align="right" src="images/Moneyme_2.PNG">
+
+<img align="right" src="images/Moneyme_3.PNG">
 
 <br/>
 <div align="right">
