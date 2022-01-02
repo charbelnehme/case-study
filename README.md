@@ -22,12 +22,12 @@
       - [Data Security](#data-security)
   - [Landscape](#landscape)
 - [Recommendations](#recommendations)
-  - [If you were to advise the company, what products or services would you suggest they offer?](#if-you-were-to-advise-the-company-what-products-or-services-would-you-suggest-they-offer)
-  - [Why do you think that offering this product or service will benefit the company?](#why-do-you-think-that-offering-this-product-or-service-will-benefit-the-company)
-    - [Company Timeline](#company-timeline)
-    - [Key Features of MoneyMe's Personal Loan](#key-features-of-moneymes-personal-loan)
-    - [Key Features of MoneyMe's Virtual Credit Card](#key-features-of-moneymes-virtual-credit-card)
-  - [What technologies would this product or service utilise? Why are these technologies appropriate for your solution?](#what-technologies-would-this-product-or-service-utilise-why-are-these-technologies-appropriate-for-your-solution)
+    - [If you were to advise the company, what products or services would you suggest they offer?](#if-you-were-to-advise-the-company-what-products-or-services-would-you-suggest-they-offer)
+    - [Why do you think that offering this product or service will benefit the company?](#why-do-you-think-that-offering-this-product-or-service-will-benefit-the-company)
+  - [Company Timeline](#company-timeline)
+  - [Key Features of MoneyMe's Personal Loan](#key-features-of-moneymes-personal-loan)
+  - [Key Features of MoneyMe's Virtual Credit Card](#key-features-of-moneymes-virtual-credit-card)
+    - [What technologies would this product or service utilise? Why are these technologies appropriate for your solution?](#what-technologies-would-this-product-or-service-utilise-why-are-these-technologies-appropriate-for-your-solution)
 
 
 ### Overview and Origin 
@@ -274,7 +274,7 @@ Prospa provides unsecured business loans to small businesses. Similarly, the Fin
 > Why are these technologies appropriate for your solution?
 ```
 
-### If you were to advise the company, what products or services would you suggest they offer? ###
+#### If you were to advise the company, what products or services would you suggest they offer? ####
 
 Moula does not operate in the consumer lending sector in Australia, in which lenders provide finance solutions for a variety of personal funding requirements. A significant opportunity exists with these type of consumers who are underserved by the major banks and traditional lenders in Australia. 
 
@@ -288,7 +288,7 @@ A combination of Moula’s Azure Machine Learning algorithm and risk-based lendi
 </div>
 <br/>
 
-### Why do you think that offering this product or service will benefit the company? ###
+#### Why do you think that offering this product or service will benefit the company? ####
 
 Demand for consumer lending in the FinTech space has been established MoneyMe, a digital financial service company that offers fast and easy credit products to tech-savvy Australian consumers MoneyMe utilise a tech-driven platform. 
 
@@ -296,15 +296,15 @@ Similar to Moula, MoneyMe offers consumers a simple online process that can be c
 
 The company has raised A$388M and was ASX listed on 27 September 2021 with a valuation of $A211.8M.
 
-#### Company Timeline 
+### Company Timeline 
 
 <img align="right" src="images/Moneyme_1.PNG">
 
-#### Key Features of MoneyMe's Personal Loan 
+### Key Features of MoneyMe's Personal Loan 
 
 <img align="right" src="images/Moneyme_2.PNG">
 
-#### Key Features of MoneyMe's Virtual Credit Card
+### Key Features of MoneyMe's Virtual Credit Card
 
 <img align="right" src="images/Moneyme_3.PNG">
 
@@ -314,7 +314,7 @@ The company has raised A$388M and was ASX listed on 27 September 2021 with a val
 </div>
 <br/>
 
-### What technologies would this product or service utilise? Why are these technologies appropriate for your solution? ###
+#### What technologies would this product or service utilise? Why are these technologies appropriate for your solution? ####
 
 Technology must -
 
