@@ -31,7 +31,7 @@
 
 ```
 > Name of company
->
+
 > When was the company incorporated? 
 ```
 
@@ -51,7 +51,9 @@ The [AFIA Code](https://afia.asn.au/AFIA-Online-Small-Business-Lenders-Code-of-L
 
 ### Meet the Founders ###
 
+```
 > Who are the founders?
+```
 
 #### Andrew Watt ####
 
@@ -85,9 +87,11 @@ Aris is a co-fouder with over 15 years’ experience working in banking in Londo
 
 ### Funding ###
 
+```
 > How is the company funded? 
-> 
+
 > How much funding have they received? 
+```
 
 <p align="center">
   <img src="https://github.com/charbelnehme/Case-Study/blob/2669d7af4473bf6f77a375813a775c6604d9615b/images/money.gif" alt="How is Moula funded?"/>
@@ -118,11 +122,13 @@ Date | Funding Round | Money Raised
 
 ### Business Activities ###
 
+```
 > What specific financial activities is the company or project trying to solve? 
->
+
 > Who is the company's intended customer? Is there any information about the market size of this set of customers? 
->
+
 > What solution does this company offer that their competitors do not or cannot offer? 
+```
 
 #### What specific financial activities is the company or project trying to solve? ####
 
@@ -214,11 +220,13 @@ It also has documents and files stored in private storage accounts accessible vi
 
 ### Landscape ###
 
+```
 > What domain of the financial industry is the company in?
-> 
+
 > What have been the major trends and innovations of this domain over the last 5-10 years?
-> 
+ 
 > What are the other major companies in this domain?
+```
 
 The Australian Fintech Sector generated A$247.2 million in 2015. Sharp growth in the Fintech market in 2016 and 2017, followed by steady increases through to 2020, is likely spur growth.
 
@@ -253,13 +261,15 @@ Prospa provides unsecured business loans to small businesses. Similarly, the Fin
 
 ## Recommendations ##
 
+```
 > If you were to advise the company, what products or services would you suggest they offer? 
-> 
+
 > Why do you think that offering this product or service will benefit the company? 
-> 
+ 
 > What technologies would this product or service utilise? 
-> 
+ 
 > Why are these technologies appropriate for your solution?
+```
 
 ### If you were to advise the company, what products or services would you suggest they offer? ###
 
