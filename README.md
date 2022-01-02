@@ -18,12 +18,15 @@
     - [Who is the companies intended customer? Is there any information about the market size of this set of customers?](#who-is-the-companies-intended-customer-is-there-any-information-about-the-market-size-of-this-set-of-customers)
     - [What solution does this company offer that their competitors do not or cannot offer?](#what-solution-does-this-company-offer-that-their-competitors-do-not-or-cannot-offer)
     - [Which technologies are they currently using, and how are they implementing them?](#which-technologies-are-they-currently-using-and-how-are-they-implementing-them)
-      - [Artificial Intelligence and Machine Learning #####](#artificial-intelligence-and-machine-learning-)
+      - [Artificial Intelligence and Machine Learning](#artificial-intelligence-and-machine-learning)
       - [Data Security](#data-security)
   - [Landscape](#landscape)
 - [Recommendations](#recommendations)
   - [If you were to advise the company, what products or services would you suggest they offer?](#if-you-were-to-advise-the-company-what-products-or-services-would-you-suggest-they-offer)
   - [Why do you think that offering this product or service will benefit the company?](#why-do-you-think-that-offering-this-product-or-service-will-benefit-the-company)
+    - [Company Timeline](#company-timeline)
+    - [Key Features of MoneyMe's Personal Loan](#key-features-of-moneymes-personal-loan)
+    - [Key Features of MoneyMe's Virtual Credit Card](#key-features-of-moneymes-virtual-credit-card)
   - [What technologies would this product or service utilise? Why are these technologies appropriate for your solution?](#what-technologies-would-this-product-or-service-utilise-why-are-these-technologies-appropriate-for-your-solution)
 
 
@@ -132,13 +135,13 @@ Date | Funding Round | Money Raised
 
 #### What specific financial activities is the company or project trying to solve? ####
 
-Justin Green is the Chief Product and Strategy Officer for Moula, and explains that for many businesses traditional banks simply don’t work.
+Moula's Chief Product and Strategy Officer, Justin Green, explains the reason that traditional banks are ineffective for many businessnes -  
 
 > “If you don’t have the benefit of assets, like the family home to put up as collateral, then your ability to borrow money from the bank is pretty limited. So Moula’s thesis was very much ‘can we partner with small businesses?’, try and demystify this volatility that exists in small businesses, encourage this open-sharing of business data, as the critical asset to understand the nature of someone’s business,” says Green.
 
-What Moula recognised was the value of the data that small business held about itself. If there was a way for lenders to see that data, analyse it, and assess the opportunities and risk – in short, determine the creditworthiness of the business – then it would be possible to identify who to offer loans to, because the data revealed that the underlying business was a good bet.
+Moula has recognised the value of the data that small business held about itself. If there was a way for lenders to see that data, analyse it, and assess the opportunities and risk – in short, determine the creditworthiness of the business – then it would be possible to identify who to offer loans to, because the data revealed that the underlying business was not a credit risk.
 
-Moula struck partnerships with the likes of cloud accounting business Xero that many small businesses already trust with their data, and started to develop an intelligent platform to underpin the loan process.
+Moula has partnered with cloud accounting business Xero that many small businesses already trust with their data, and developed it's AI and machine learning algorithm to underpin the loan process.
 
 <br/>
 <div align="right">
@@ -148,13 +151,11 @@ Moula struck partnerships with the likes of cloud accounting business Xero that 
 
 #### Who is the companies intended customer? Is there any information about the market size of this set of customers? 
 
-Moula provides business loans to small and medium sized Australian businessnes. Australia is home to around 2.3 million businesses. Most of them class as small and medium and are the backbone of the Australian economy, creating around 7 million jobs, contributing to 57% of Australia's GDP and cementing our reputation as a nation of entrepreneurs.
+Moula provides business loans to small and medium sized Australian businessnes. 
+
+Australia is home to around 2.3 million businesses. Most of them class as small and medium and are the backbone of the Australian economy, creating around 7 million jobs, contributing to 57% of Australia's GDP and cementing our reputation as a nation of entrepreneurs.
 
 The small business sector is already powering Australia's economic recovery. In the three months to August 2021, $10 billion in new lending was made to small business, a 26% jump from $7.9 billion in the three months to August 2020.
-
-Justin Green is the Chief Product and Strategy Officer for Moula explains why traditional banks don’t work for many Australian businesses –
-
-> “If you don’t have the benefit of assets, like the family home to put up as collateral, then your ability to borrow money from the bank is pretty limited. So Moula’s thesis was very much ‘can we partner with small businesses?’, try and demystify this volatility that exists in small businesses, encourage this open-sharing of business data, as the critical asset to understand the nature of someone’s business.”
 
 https://business.nab.com.au/wp-content/uploads/2017/06/J002580_MTM-Whitepaper-IPSOS-FINAL_C1-2.pdf 
 
@@ -181,7 +182,7 @@ The AFIA Members having a Code-compliant online small business loan product are:
 * [Prospa](https://prospa.com.au "Prospa"), and 
 * [Zip Business](https://zip.co "Zip Business")  
 
-The customer-centric Code supports small business borrowers by giving them a tool (the SMART Box™) to easily compare different online lenders’ small business loan product pricing, using several metrics standardised in calculation and presentation and providing a clear and concise loan summary sheet before a loan is accepted so they can see the key features of a product.
+The AFIA Code supports small business borrowers by giving them a tool (the SMART Box™) to compare different online lenders’ small business loan product pricing, using several metrics standardised in calculation and presentation, and providing a concise loan summary sheet before a loan is accepted, so they can see the key features of a product.
 
 <img align="center" src="images/Smartbox_1.PNG">
 
@@ -196,7 +197,7 @@ https://user-images.githubusercontent.com/95597283/147745323-1ac3c156-4987-463d-
 
 #### Which technologies are they currently using, and how are they implementing them? ####
 
-##### Artificial Intelligence and Machine Learning ##### 
+##### Artificial Intelligence and Machine Learning 
 
 Moula uses data, AI and machine learning to assess business loan applications made online. The company has established an Azure based data warehouse using Azure SQL DB, implemented Power BI to run business analytics, and leverage Azure AI and machine learning capabilities to assess data and analyse credit risk.
 
@@ -210,7 +211,9 @@ Moula has been able to refine that prediction by using historical data from past
 
 Moula deploys multiple layers of defence in order to ensure customer data is protected, and takes advantage of Azure security features such as Advanced Data Security and Dynamic Data Masking.
 
-It also has documents and files stored in private storage accounts accessible via its own application and uses KeyVault to ensure there are no naked connection strings or access keys in any deployed applications. The company employs IP whitelisting and subnets to restrict access to some applications and VMs. Operating in a currently self-regulated part of the financial services market, Moula nevertheless expects to be impacted by changing regulations affecting other institutions.
+It also has documents and files stored in private storage accounts accessible via its own application and uses KeyVault to ensure there are no naked connection strings or access keys in any deployed applications. 
+
+The company employs IP whitelisting and subnets to restrict access to some applications and VMs. Operating in a currently self-regulated part of the financial services market, Moula nevertheless expects to be impacted by changing regulations affecting other institutions.
 
 <br/>
 <div align="right">
@@ -275,7 +278,9 @@ Prospa provides unsecured business loans to small businesses. Similarly, the Fin
 
 Moula does not operate in the consumer lending sector in Australia, in which lenders provide finance solutions for a variety of personal funding requirements. A significant opportunity exists with these type of consumers who are underserved by the major banks and traditional lenders in Australia. 
 
-A key component of a Moula business loan is the online application process, which takes up to 10 minutes to complete, and the capability for funds to be disbursed or credit facilities to be available to the business customer shortly after approval. A combination of Moula’s Azure Machine Learning algorithm and risk-based lending principles to assess credit risk and streamline the credit approval process may translate to a frictionless credit product and positive customer experience. 
+A key component of a Moula business loan is the online application process, which takes up to 10 minutes to complete, and the capability for funds to be disbursed or credit facilities to be available to the business customer shortly after approval. 
+
+A combination of Moula’s Azure Machine Learning algorithm and risk-based lending principles to assess credit risk and streamline the credit approval process represents the foundations for a consumer credit product and positive customer experience. 
 
 <br/>
 <div align="right">
@@ -285,11 +290,21 @@ A key component of a Moula business loan is the online application process, whic
 
 ### Why do you think that offering this product or service will benefit the company? ###
 
-Demand for consumer lending in the FinTech space has been established MoneyMe, a digital financial service company that offers fast and easy credit products to tech-savvy Australian consumers MoneyMe utilise a tech-driven platform. Similar to Moula, MoneyMe offers consumers a simple online process that can be completed in minutes minutes using a mobile phone. The company has raised A$388M and was ASX listed on 27 September 2021 with a valuation of $A211.8M.
+Demand for consumer lending in the FinTech space has been established MoneyMe, a digital financial service company that offers fast and easy credit products to tech-savvy Australian consumers MoneyMe utilise a tech-driven platform. 
+
+Similar to Moula, MoneyMe offers consumers a simple online process that can be completed in minutes minutes using a mobile phone. 
+
+The company has raised A$388M and was ASX listed on 27 September 2021 with a valuation of $A211.8M.
+
+#### Company Timeline 
 
 <img align="right" src="images/Moneyme_1.PNG">
 
+#### Key Features of MoneyMe's Personal Loan 
+
 <img align="right" src="images/Moneyme_2.PNG">
+
+#### Key Features of MoneyMe's Virtual Credit Card
 
 <img align="right" src="images/Moneyme_3.PNG">
 
