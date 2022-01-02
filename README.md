@@ -192,8 +192,6 @@ https://user-images.githubusercontent.com/95597283/147745323-1ac3c156-4987-463d-
 
 <img align="center" src="images/Smartbox_1.PNG">
 
-<img align="center" src="images/Smartbox_2.PNG">
-
 #### Which technologies are they currently using, and how are they implementing them? ####
 
 Moula uses data, AI and machine learning to assess business loan applications made online. Successful applications can result in business loans of up to $500,000 being made available in 24-48 hours. 
