@@ -187,11 +187,8 @@ https://user-images.githubusercontent.com/95597283/147745323-1ac3c156-4987-463d-
 
 <img align="right" src="images/Smartbox_1.PNG">
 
-<br/>
-
 <img align="right" src="images/Smartbox_2.PNG">
 
-<br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
 </div>
