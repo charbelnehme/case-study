@@ -185,6 +185,12 @@ The level of pricing transparency and disclosure provided by the internationally
 
 https://user-images.githubusercontent.com/95597283/147745323-1ac3c156-4987-463d-a8f9-514c32aaf64d.mp4
 
+<img align="right" src="images/Smartbox_1.PNG">
+
+<br/>
+
+<img align="right" src="images/Smartbox_2.PNG">
+
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
@@ -290,6 +296,12 @@ A combination of Moula’s Azure Machine Learning algorithm and risk-based lendi
 Moula does not operate in the consumer lending sector in Australia, in which lenders provide finance solutions for a variety of personal funding requirements. A significant opportunity exists with these types of consumers who are underserved by the major banks and traditional lenders in Australia. 
 
 A combination of Moula’s Azure Machine Learning algorithm and risk-based lending principles to assess credit risk and streamline the credit approval process may translate to a frictionless credit product and positive customer experience. A key component of a Moula business loan is the online application process, which takes up to 10 minutes to complete, and the capability for funds to be disbursed or credit facilities to be available to the business customer shortly after approval.
+
+<img align="right" src="images/Moneyme_1.PNG">
+
+<img align="right" src="images/Moneyme_2.PNG">
+
+<img align="right" src="images/Moneyme_3.PNG">
 
 <br/>
 <div align="right">
