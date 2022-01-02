@@ -183,16 +183,16 @@ Launched by AFIA on 29 June 2018, the customer-centric Code supports small busin
 
 The level of pricing transparency and disclosure provided by the internationally recognised SMART Box™ tool establishes a new level of industry best practice in the small business finance segment. This proactive step was taken by the AFIA online lenders as they play an increasingly important role in the Australian economy by providing much-needed access to credit for small businesses.
 
-https://user-images.githubusercontent.com/95597283/147745323-1ac3c156-4987-463d-a8f9-514c32aaf64d.mp4
-
-<img align="right" src="images/Smartbox_1.PNG">
-
-<img align="right" src="images/Smartbox_2.PNG">
+https://user-images.githubusercontent.com/95597283/147745323-1ac3c156-4987-463d-a8f9-514c32aaf64d.mp4>
 
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
 </div>
 <br/>
+
+<img align="right" src="images/Smartbox_1.PNG">
+
+<img align="right" src="images/Smartbox_2.PNG"
 
 #### Which technologies are they currently using, and how are they implementing them? ####
 
