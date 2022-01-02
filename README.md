@@ -190,9 +190,9 @@ https://user-images.githubusercontent.com/95597283/147745323-1ac3c156-4987-463d-
 </div>
 <br/>
 
-<img align="right" src="images/Smartbox_1.PNG">
+<img align="center" src="images/Smartbox_1.PNG">
 
-<img align="right" src="images/Smartbox_2.PNG"
+<img align="center" src="images/Smartbox_2.PNG">
 
 #### Which technologies are they currently using, and how are they implementing them? ####
 
