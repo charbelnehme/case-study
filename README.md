@@ -177,6 +177,8 @@ The AFIA Members having a Code-compliant online small business loan product are:
 
 The customer-centric Code supports small business borrowers by giving them a tool (the SMART Box™) to easily compare different online lenders’ small business loan product pricing, using several metrics standardised in calculation and presentation and providing a clear and concise loan summary sheet before a loan is accepted so they can see the key features of a product.
 
+<img align="center" src="images/Smartbox_1.PNG">
+
 The level of pricing transparency and disclosure provided by the SMART Box™ tool establishes a new level of industry best practice in the small business finance segment. This proactive step was taken by the AFIA online lenders as they play an increasingly important role in the Australian economy by providing much-needed access to credit for small businesses.
 
 https://user-images.githubusercontent.com/95597283/147745323-1ac3c156-4987-463d-a8f9-514c32aaf64d.mp4>
@@ -185,8 +187,6 @@ https://user-images.githubusercontent.com/95597283/147745323-1ac3c156-4987-463d-
     <b><a href="#top">↥ back to top</a></b>
 </div>
 <br/>
-
-<img align="right" src="images/Smartbox_1.PNG">
 
 #### Which technologies are they currently using, and how are they implementing them? ####
 
