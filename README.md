@@ -27,11 +27,11 @@
 
 ### Overview and Origin 
 
-> Name of company
->  
-> When was the company incorporated? 
-> 
-> How did the idea for the company come about? 
+| Name of company
+|  
+| When was the company incorporated? 
+| 
+| How did the idea for the company come about? 
 
 #### Introduction ####
 
