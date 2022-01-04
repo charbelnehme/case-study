@@ -298,15 +298,15 @@ The company has raised A$388M and was ASX listed on 27 September 2021 with a val
 
 ### Company Timeline 
 
-<img align="right" src="images/Moneyme_1.PNG">
+<img align="center" src="images/Moneyme_1.PNG">
 
 ### Key Features of MoneyMe's Personal Loan 
 
-<img align="right" src="images/Moneyme_2.PNG">
+<img align="center" src="images/Moneyme_2.PNG">
 
 ### Key Features of MoneyMe's Virtual Credit Card
 
-<img align="right" src="images/Moneyme_3.PNG">
+<img align="center" src="images/Moneyme_3.PNG">
 
 <br/>
 <div align="right">
