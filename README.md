@@ -155,13 +155,7 @@ Moula provides business loans to small and medium sized Australian businessnes.
 
 Australia is home to around 2.3 million businesses. Most of them class as small and medium and are the backbone of the Australian economy, creating around 7 million jobs, contributing to 57% of Australia's GDP and cementing our reputation as a nation of entrepreneurs.
 
-The small business sector is already powering Australia's economic recovery. In the three months to August 2021, $10 billion in new lending was made to small business, a 26% jump from $7.9 billion in the three months to August 2020.
-
-https://business.nab.com.au/wp-content/uploads/2017/06/J002580_MTM-Whitepaper-IPSOS-FINAL_C1-2.pdf 
-
-https://www.smartcompany.com.au/finance/economy/smes-government-consumers-collective-effort-economic-recovery/
-
-https://www.ausbanking.org.au/inaugural-roundtable-paves-small-business-road-to-recovery/ 
+The small business sector is already powering Australia's economic recovery. In the three months to August 2021, $10 billion in new lending was made to small business, a 26% jump from $7.9 billion in the three months to August 2020. 
 
 <br/>
 <div align="right">
@@ -254,7 +248,13 @@ Melbourne is home to more than 330 fintech start-ups, and by the end of 2020, th
 
 Behind these unicorns are also scaleups such as Moula ($160 million Series D in 2020), Prospa and Assembly Payments making their mark from Melbourne.
 
-Prospa provides unsecured business loans to small businesses. Similarly, the FinTech uses information technology to facilitate the business loan process. In 2015 Prospa won the Deloitte Tech Fast 50 with 6071% growth over three years, making it the fastest growing technology company in Australia, and the third fastest in Asia. Prospa was a 2015 Telstra Business Awards finalist and rated 33rd globally as a leading innovator in KPMG's Fintech 100. The company has received $96.7M funding, with an additional $109.6M raised at IPO. The FinTech's IPO valuation was $609.9M on 11 June 2019.  
+Prospa provides unsecured business loans to small businesses. 
+
+Similarly, the FinTech uses information technology to facilitate the business loan process. In 2015 Prospa won the Deloitte Tech Fast 50 with 6071% growth over three years, making it the fastest growing technology company in Australia, and the third fastest in Asia. 
+
+Prospa was a 2015 Telstra Business Awards finalist and rated 33rd globally as a leading innovator in KPMG's Fintech 100. 
+
+The company has received $96.7M funding, with an additional $109.6M raised at IPO. The FinTech's IPO valuation was $609.9M on 11 June 2019.  
 
 <br/>
 <div align="right">
@@ -316,17 +316,16 @@ The company has raised A$388M and was ASX listed on 27 September 2021 with a val
 
 #### What technologies would this product or service utilise? Why are these technologies appropriate for your solution? ####
 
-Technology must -
+Moula relies on third party software for key functions, including Microsoft Azure (for cloud-hosting and data storage), and third-party service providers for key data, including Equifax (for credit information on applicants). It is recommended that Moula continues to rely on identical software for the recommended consumer loan product. 
 
-* support scale and drive efficiency through automation
-* enhance credit decisioning
-* utilise data analytics to inform and improve data-driven decision-making through artificial intelligence and machine learning 
-* deliver dynamic customer processes to provide a seamless customer experience
-* allow for constant product innovation, which is facilitated through the technology platform being modular in nature
-* provide security and protection of customer data through all layers of the platform. 
+The technology stack should consume data from multiple sources (including third parties like credit bureaus and financial institutions) and, through artificial intelligence, use this data to make data-driven responsible lending decisions. 
 
-Moula relies on third party software for key functions, including Microsoft Azure (for cloud-hosting and data storage), and third-party service providers for key data, including Equifax (for credit information on applicants). 
-The technology platform should consume data from multiple sources (including third parties like credit bureaus and financial institutions) and, through artificial intelligence, use this data to make data-driven responsible lending decisions. 
+The technologies that underpin my recommendation for Moula's proposed 'consumer loan' products might be appropriate as they -   
+
+* help support scale and drive efficiency through process automation.
+* enhance credit decision making.
+* utilise data analytics and machine learning to inform and improve data-driven decision-making through artificial intelligence.
+* deliver dynamic customer processes to provide a quick and easy loan application process. 
 
 <br/>
 <div align="right">
